@@ -1,0 +1,1802 @@
+parkCode,airport_code,airport_name,distance_miles
+acad,ACK,Nantucket Memorial Airport,236.6
+acad,AUG,Augusta State Airport,76.8
+acad,BDL,Bradley International Airport,281.4
+acad,BED,Laurence G Hanscom Field,203.0
+acad,BGR,Bangor International Airport,39.6
+acad,BHB,Hancock County-Bar Harbor Airport,6.3
+acad,BID,Block Island State Airport,280.4
+acad,BOS,Boston Logan International Airport,198.0
+acad,BTV,Patrick Leahy Burlington International Airport,242.0
+acad,EWB,New Bedford Regional Airport,233.2
+acad,HYA,Cape Cod Gateway Airport,215.3
+acad,LEB,Lebanon Municipal Airport,208.7
+acad,MHT,Manchester-Boston Regional Airport,189.2
+acad,MTP,Montauk Airport,296.2
+acad,MVY,Martha's Vineyard Airport,240.3
+acad,ORH,Worcester Regional Airport,234.8
+acad,PBG,Plattsburgh International Airport,257.6
+acad,PQI,Presque Isle International Airport,157.8
+acad,PSM,Portsmouth International Airport at Pease,158.1
+acad,PVD,Rhode Island T. F. Green International Airport,245.2
+acad,PWM,Portland International Jetport,115.2
+acad,RKD,Knox County Regional Airport,48.6
+acad,RUT,Rutland - Southern Vermont Regional Airport,241.6
+acad,SLK,Adirondack Regional Airport,294.0
+acad,NPT,Newport State Airport,251.0
+acad,WST,Westerly State Airport,277.6
+arch,ALS,San Luis Valley Regional Airport/Bergman Field,221.0
+arch,ASE,Aspen-Pitkin County Airport (Sardy Field),150.0
+arch,BJC,Rocky Mountain Metropolitan Airport,252.5
+arch,CDC,Cedar City Regional Airport,203.3
+arch,CEZ,Cortez Municipal Airport,111.1
+arch,CNY,Canyonlands Regional Airport,9.4
+arch,COS,City of Colorado Springs Municipal Airport,263.2
+arch,DEN,Denver International Airport,274.2
+arch,DRO,Durango La Plata County Airport,147.5
+arch,EGE,Eagle County Regional Airport,156.4
+arch,FLG,Flagstaff Pulliam Airport,273.0
+arch,GCN,Grand Canyon National Park Airport,237.5
+arch,GJT,Grand Junction Regional Airport,63.3
+arch,GUC,Gunnison Crested Butte Regional Airport,143.7
+arch,GUP,Gallup Municipal Airport,226.2
+arch,HDN,Yampa Valley Airport,175.1
+arch,LAR,Laramie Regional Airport,273.5
+arch,MTJ,Montrose Regional Airport,92.5
+arch,OGD,Ogden Hinckley Airport,213.8
+arch,PGA,Page Municipal Airport,160.5
+arch,PUB,Pueblo Memorial Airport,276.8
+arch,PVU,Provo Municipal Airport,153.8
+arch,RKS,Southwest Wyoming Regional Airport,200.3
+arch,SAF,Santa Fe Municipal Airport,288.3
+arch,SGU,St George Regional Airport,243.6
+arch,TSM,Taos Regional Airport,265.3
+arch,SLC,Salt Lake City International Airport,191.2
+arch,TEX,Telluride Regional Airport,105.3
+arch,VEL,Vernal Regional Airport,118.5
+badl,ABR,Aberdeen Regional Airport,234.1
+badl,AIA,Alliance Municipal Airport,114.0
+badl,ATY,Watertown Regional Airport,276.7
+badl,BFF,Western Neb. Rgnl/William B. Heilig Airport,137.3
+badl,BIS,Bismarck Municipal Airport,229.4
+badl,BJC,Rocky Mountain Metropolitan Airport,294.1
+badl,CDR,Chadron Municipal Airport,66.2
+badl,CPR,Casper-Natrona County International Airport,207.2
+badl,CYS,Cheyenne Regional Jerry Olson Field,211.3
+badl,DEN,Denver International Airport,287.4
+badl,DIK,Dickinson Theodore Roosevelt Regional Airport,215.6
+badl,EAR,Kearney Regional Airport,271.0
+badl,FSD,Sioux Falls Regional Airport,287.2
+badl,GCC,Northeast Wyoming Regional Airport,158.6
+badl,GDV,Dawson Community Airport,263.8
+badl,GRI,Central Nebraska Regional Airport,284.1
+badl,JMS,Jamestown Regional Airport,290.5
+badl,LAR,Laramie Regional Airport,230.9
+badl,LBF,North Platte Regional Airport Lee Bird Field,199.2
+badl,MCK,McCook Ben Nelson Regional Airport,259.2
+badl,PIR,Pierre Regional Airport,119.3
+badl,RAP,Rapid City Regional Airport,37.9
+badl,SDY,Sidney - Richland Regional Airport,289.7
+badl,SHR,Sheridan County Airport,234.9
+bibe,CNM,Cavern City Air Terminal,218.8
+bibe,ELP,El Paso International Airport,255.2
+bibe,HOB,Lea County Regional Airport,234.2
+bibe,LRD,Laredo International Airport,259.1
+bibe,MAF,Midland International Air and Space Port,192.7
+bibe,ROW,Roswell Air Center Airport,287.1
+bibe,SAT,San Antonio International Airport,286.9
+bibe,SJT,San Angelo Regional Mathis Field,216.4
+bisc,DAB,Daytona Beach International Airport,260.4
+bisc,EYW,Key West International Airport,116.5
+bisc,FLL,Fort Lauderdale Hollywood International Airport,40.4
+bisc,LAL,Lakeland Linder International Airport,205.6
+bisc,MCO,Orlando International Airport,214.0
+bisc,MIA,Miami International Airport,21.7
+bisc,MLB,Melbourne Orlando International Airport,182.4
+bisc,OPF,Miami-Opa Locka Executive Airport,29.1
+bisc,DJT,President Donald J. Trump International Airport,82.7
+bisc,PGD,Punta Gorda Airport,148.1
+bisc,PIE,St. Petersburg Clearwater International Airport,226.5
+bisc,RSW,Southwest Florida International Airport,119.9
+bisc,SFB,Orlando Sanford International Airport,235.5
+bisc,SRQ,Sarasota Bradenton International Airport,195.8
+bisc,TPA,Tampa International Airport,223.7
+bisc,VRB,Vero Beach Regional Airport,150.1
+blca,ABQ,Albuquerque International Sunport,252.1
+blca,ALS,San Luis Valley Regional Airport/Bergman Field,128.3
+blca,ASE,Aspen-Pitkin County Airport (Sardy Field),64.1
+blca,BJC,Rocky Mountain Metropolitan Airport,167.1
+blca,CDC,Cedar City Regional Airport,298.2
+blca,CEZ,Cortez Municipal Airport,100.9
+blca,CNY,Canyonlands Regional Airport,110.2
+blca,COS,City of Colorado Springs Municipal Airport,163.8
+blca,CYS,Cheyenne Regional Jerry Olson Field,235.7
+blca,DEN,Denver International Airport,185.8
+blca,DRO,Durango La Plata County Airport,98.6
+blca,EGE,Eagle County Regional Airport,85.3
+blca,GJT,Grand Junction Regional Airport,57.6
+blca,GUC,Gunnison Crested Butte Regional Airport,42.8
+blca,GUP,Gallup Municipal Airport,219.8
+blca,HDN,Yampa Valley Airport,134.3
+blca,LAR,Laramie Regional Airport,217.9
+blca,MTJ,Montrose Regional Airport,10.3
+blca,OGD,Ogden Hinckley Airport,290.4
+blca,PGA,Page Municipal Airport,233.3
+blca,PUB,Pueblo Memorial Airport,175.8
+blca,PVU,Provo Municipal Airport,241.7
+blca,RKS,Southwest Wyoming Regional Airport,220.1
+blca,SAF,Santa Fe Municipal Airport,223.5
+blca,TSM,Taos Regional Airport,184.8
+blca,SLC,Salt Lake City International Airport,273.0
+blca,TEX,Telluride Regional Airport,44.3
+blca,VEL,Vernal Regional Airport,159.9
+brca,BLD,Boulder City Municipal Airport,186.3
+brca,CDC,Cedar City Regional Airport,50.8
+brca,CEZ,Cortez Municipal Airport,196.0
+brca,CNY,Canyonlands Regional Airport,154.7
+brca,DRO,Durango La Plata County Airport,245.0
+brca,EKO,Elko Regional Airport,295.7
+brca,FLG,Flagstaff Pulliam Airport,171.3
+brca,GCN,Grand Canyon National Park Airport,112.8
+brca,GJT,Grand Junction Regional Airport,224.8
+brca,GUC,Gunnison Crested Butte Regional Airport,292.9
+brca,GUP,Gallup Municipal Airport,236.6
+brca,HII,Lake Havasu City Airport,241.0
+brca,AZA,Mesa Gateway Airport,296.9
+brca,LAS,Harry Reid International Airport,194.2
+brca,MTJ,Montrose Regional Airport,241.9
+brca,OGD,Ogden Hinckley Airport,249.7
+brca,PGA,Page Municipal Airport,60.9
+brca,PHX,Phoenix Sky Harbor International Airport,286.8
+brca,PRC,Prescott Regional Airport - Ernest A. Love Field,202.9
+brca,PVU,Provo Municipal Airport,183.7
+brca,SGU,St George Regional Airport,82.2
+brca,SLC,Salt Lake City International Airport,221.7
+brca,SOW,Show Low Regional Airport,259.7
+brca,TEX,Telluride Regional Airport,234.8
+brca,VEL,Vernal Regional Airport,243.7
+cany,ABQ,Albuquerque International Sunport,286.2
+cany,ALS,San Luis Valley Regional Airport/Bergman Field,226.0
+cany,ASE,Aspen-Pitkin County Airport (Sardy Field),175.8
+cany,BJC,Rocky Mountain Metropolitan Airport,280.1
+cany,CDC,Cedar City Regional Airport,179.3
+cany,CEZ,Cortez Municipal Airport,94.4
+cany,CNY,Canyonlands Regional Airport,35.8
+cany,COS,City of Colorado Springs Municipal Airport,282.6
+cany,DRO,Durango La Plata County Airport,138.6
+cany,EGE,Eagle County Regional Airport,186.1
+cany,FLG,Flagstaff Pulliam Airport,236.4
+cany,GCN,Grand Canyon National Park Airport,201.8
+cany,GJT,Grand Junction Regional Airport,94.9
+cany,GUC,Gunnison Crested Butte Regional Airport,160.8
+cany,GUP,Gallup Municipal Airport,198.3
+cany,HDN,Yampa Valley Airport,209.9
+cany,MTJ,Montrose Regional Airport,109.1
+cany,OGD,Ogden Hinckley Airport,233.2
+cany,PGA,Page Municipal Airport,125.3
+cany,PRC,Prescott Regional Airport - Ernest A. Love Field,285.5
+cany,PUB,Pueblo Memorial Airport,292.0
+cany,PVU,Provo Municipal Airport,168.3
+cany,RKS,Southwest Wyoming Regional Airport,235.4
+cany,SAF,Santa Fe Municipal Airport,277.1
+cany,SGU,St George Regional Airport,215.4
+cany,TSM,Taos Regional Airport,261.9
+cany,SLC,Salt Lake City International Airport,208.3
+cany,SOW,Show Low Regional Airport,275.2
+cany,TEX,Telluride Regional Airport,109.1
+cany,VEL,Vernal Regional Airport,152.6
+care,BLD,Boulder City Municipal Airport,256.1
+care,ALS,San Luis Valley Regional Airport/Bergman Field,299.2
+care,ASE,Aspen-Pitkin County Airport (Sardy Field),244.7
+care,CDC,Cedar City Regional Airport,108.5
+care,CEZ,Cortez Municipal Airport,158.2
+care,CNY,Canyonlands Regional Airport,87.0
+care,DRO,Durango La Plata County Airport,206.3
+care,EGE,Eagle County Regional Airport,250.8
+care,EKO,Elko Regional Airport,299.1
+care,FLG,Flagstaff Pulliam Airport,218.4
+care,GCN,Grand Canyon National Park Airport,168.4
+care,GJT,Grand Junction Regional Airport,157.7
+care,GUC,Gunnison Crested Butte Regional Airport,234.1
+care,GUP,Gallup Municipal Airport,234.7
+care,HDN,Yampa Valley Airport,263.4
+care,LAS,Harry Reid International Airport,263.2
+care,MTJ,Montrose Regional Airport,182.2
+care,OGD,Ogden Hinckley Airport,205.4
+care,PGA,Page Municipal Airport,94.5
+care,PRC,Prescott Regional Airport - Ernest A. Love Field,259.0
+care,PVU,Provo Municipal Airport,136.2
+care,RKS,Southwest Wyoming Regional Airport,256.4
+care,SGU,St George Regional Airport,150.8
+care,SLC,Salt Lake City International Airport,177.5
+care,SOW,Show Low Regional Airport,286.1
+care,TEX,Telluride Regional Airport,182.9
+care,VEL,Vernal Regional Airport,175.3
+cave,ABI,Abilene Regional Airport,285.1
+cave,ABQ,Albuquerque International Sunport,232.6
+cave,AMA,Rick Husband Amarillo International Airport,268.3
+cave,CNM,Cavern City Air Terminal,21.7
+cave,CVN,Clovis Municipal Airport,179.4
+cave,ELP,El Paso International Airport,109.2
+cave,HOB,Lea County Regional Airport,86.6
+cave,LBB,Lubbock Preston Smith International Airport,190.1
+cave,LRU,Las Cruces International Airport,138.9
+cave,MAF,Midland International Air and Space Port,138.4
+cave,ROW,Roswell Air Center Airport,80.2
+cave,SAF,Santa Fe Municipal Airport,255.8
+cave,SJT,San Angelo Regional Mathis Field,244.4
+cave,SVC,Grant County Airport,212.9
+chis,BFL,Meadows Field,111.1
+chis,BIH,Eastern Sierra Regional Airport,249.6
+chis,BUR,Hollywood Burbank/Bob Hope Airport,90.1
+chis,CLD,McClellan-Palomar Airport,162.7
+chis,FAT,Fresno Yosemite International Airport,193.0
+chis,HHR,Jack Northrop Field Hawthorne Municipal Airport,90.4
+chis,IPL,Imperial County Airport,262.5
+chis,LAX,Los Angeles International Airport,86.2
+chis,LGB,Long Beach International Airport,101.7
+chis,MCE,Merced Regional Macready Field,230.4
+chis,MMH,Mammoth Yosemite Airport,258.4
+chis,MRY,Monterey Regional Airport,210.1
+chis,OAK,Oakland San Francisco Bay Airport,288.5
+chis,ONT,Ontario International Airport,132.4
+chis,PSP,Palm Springs International Airport,195.5
+chis,SAN,San Diego International Airport,179.3
+chis,SBA,Santa Barbara Municipal Airport,30.6
+chis,SBD,San Bernardino International Airport,153.3
+chis,SBP,San Luis County Regional Airport,95.8
+chis,SCK,Stockton Metropolitan Airport,279.9
+chis,SFO,San Francisco International Airport,286.4
+chis,SJC,Mineta San Jose International Airport,259.3
+chis,SMX,Santa Maria Public Airport Captain G Allan Hancock Field,70.3
+chis,SNA,John Wayne Orange County International Airport,119.2
+chis,SQL,San Carlos Airport,276.7
+cong,ABY,Southwest Georgia Regional Airport,254.1
+cong,AGS,Augusta Regional At Bush Field,75.8
+cong,ATL,Hartsfield Jackson Atlanta International Airport,211.7
+cong,AVL,Asheville Regional Airport,152.6
+cong,BKW,Raleigh County Memorial Airport,276.9
+cong,BQK,Brunswick Golden Isles Airport,179.9
+cong,CAE,Columbia Metropolitan Airport,23.7
+cong,CHA,Chattanooga Metropolitan Airport (Lovell Field),268.1
+cong,CHS,Charleston International Airport,74.2
+cong,CLT,Charlotte Douglas International Airport,98.9
+cong,CSG,Columbus Airport,257.9
+cong,EWN,Coastal Carolina Regional Airport,229.0
+cong,FAY,Fayetteville Regional Airport - Grannis Field,135.0
+cong,FLO,Florence Regional Airport,64.7
+cong,GNV,Gainesville Regional Airport,297.2
+cong,GSO,Piedmont Triad International Airport,165.9
+cong,GSP,Greenville-Spartanburg International Airport,113.4
+cong,HHH,Hilton Head Airport,108.3
+cong,ILM,Wilmington International Airport,166.2
+cong,JAX,Jacksonville International Airport,234.5
+cong,USA,Concord-Padgett Regional Airport,110.3
+cong,LWB,Greenbrier Valley Airport,281.6
+cong,LYH,Lynchburg Regional Airport - Preston Glenn Field,259.3
+cong,MCN,Middle Georgia Regional Airport,184.0
+cong,MYR,Myrtle Beach International Airport,104.9
+cong,OAJ,Albert J Ellis Airport,192.8
+cong,PDK,DeKalb Peachtree Airport,204.0
+cong,PGV,Pitt-Greenville Airport,229.6
+cong,RDU,Raleigh-Durham International Airport,182.1
+cong,ROA,Roanoke–Blacksburg Regional Airport,248.0
+cong,SAV,Savannah Hilton Head International Airport,118.0
+cong,UST,Northeast Florida Regional Airport,267.1
+cong,TRI,Tri-Cities Regional TN/VA Airport,207.7
+cong,TYS,McGhee Tyson Airport,231.0
+cong,VLD,Valdosta Regional Airport,255.0
+crla,ACV,California Redwood Coast-Humboldt County Airport,169.4
+crla,ALW,Walla Walla Regional Airport,288.7
+crla,CEC,Jack Mc Namara Field Airport,134.0
+crla,EUG,Eugene Airport,98.0
+crla,MFR,Rogue Valley International-Medford Airport,54.2
+crla,OLM,Olympia Regional Airport,280.9
+crla,OTH,Southwest Oregon Regional Airport,111.4
+crla,PDT,Eastern Oregon Regional Airport at Pendleton,250.4
+crla,PDX,Portland International Airport,184.4
+crla,PSC,Tri Cities Airport,273.3
+crla,RDD,Redding Municipal Airport,168.2
+crla,RDM,Roberts Field,103.2
+crla,RNO,Reno Tahoe International Airport,267.7
+crla,SLE,Salem-Willamette Valley Airport/McNary Field,142.7
+crla,SMF,Sacramento International Airport,294.7
+crla,TIW,Tacoma Narrows Airport,299.7
+crla,TKF,Truckee Tahoe Airport,270.9
+crla,YKM,Yakima Air Terminal McAllister Field,262.5
+cuva,AOO,Altoona Blair County Airport,182.7
+cuva,APN,Alpena County Regional Airport,282.1
+cuva,AZO,Kalamazoo/Battle Creek International Airport,215.8
+cuva,BFD,Bradford Regional Airport,156.2
+cuva,BGM,Greater Binghamton/Edwin A Link field,295.6
+cuva,BKW,Raleigh County Memorial Airport,241.2
+cuva,BUF,Buffalo Niagara International Airport,186.1
+cuva,BWI,Baltimore/Washington International Thurgood Marshall Airport,296.0
+cuva,CAK,Akron Canton Regional Airport,24.8
+cuva,CHO,Charlottesville Albemarle Airport,272.0
+cuva,CKB,North Central West Virginia Airport,153.1
+cuva,CLE,Cleveland Hopkins International Airport,17.8
+cuva,CMH,John Glenn Columbus International Airport,111.4
+cuva,CRW,Yeager Airport,199.5
+cuva,CVG,Cincinnati Northern Kentucky International Airport,223.8
+cuva,DAY,James M. Cox Dayton International Airport,167.7
+cuva,DCA,Ronald Reagan Washington National Airport,291.8
+cuva,DTW,Detroit Metropolitan Wayne County Airport,113.1
+cuva,DUJ,DuBois Regional Airport,139.0
+cuva,ELM,Elmira Corning Regional Airport,249.2
+cuva,ERI,Erie International Tom Ridge Field,91.8
+cuva,FNT,Bishop International Airport,162.2
+cuva,FWA,Fort Wayne International Airport,189.6
+cuva,GRR,Gerald R. Ford International Airport,231.5
+cuva,HGR,Hagerstown Regional Richard A Henson Field,228.6
+cuva,HTS,Tri-State Airport / Milton J. Ferguson Field,206.7
+cuva,IAD,Washington Dulles International Airport,270.0
+cuva,IAG,Niagara Falls International Airport,185.3
+cuva,IND,Indianapolis International Airport,270.1
+cuva,IPT,Williamsport Regional Airport,241.5
+cuva,ITH,Ithaca Tompkins Regional Airport,276.4
+cuva,JST,John Murtha Johnstown Cambria County Airport,157.4
+cuva,LAF,Purdue University Airport,286.6
+cuva,LAN,Capital Region International Airport,186.9
+cuva,LBE,Arnold Palmer Regional Airport,132.2
+cuva,LCK,Rickenbacker International Airport,122.8
+cuva,LEX,Blue Grass Airport,275.2
+cuva,LNS,Lancaster Airport,287.3
+cuva,LUK,Cincinnati Municipal Airport Lunken Field,211.7
+cuva,LWB,Greenbrier Valley Airport,243.3
+cuva,LYH,Lynchburg Regional Airport - Preston Glenn Field,299.9
+cuva,MBS,MBS International Airport,202.7
+cuva,MDT,Harrisburg International Airport,262.3
+cuva,MGC,Michigan City Municipal Airport,273.4
+cuva,MGW,Morgantown Municipal Airport Walter L. (Bill) Hart Field,141.6
+cuva,MKG,Muskegon County Airport,272.8
+cuva,PIT,Pittsburgh International Airport,87.8
+cuva,PKB,Mid Ohio Valley Regional Airport,132.6
+cuva,ROA,Roanoke–Blacksburg Regional Airport,285.0
+cuva,ROC,Frederick Douglass Greater Rochester International Airport,237.3
+cuva,SBN,South Bend International Airport,247.5
+cuva,SHD,Shenandoah Valley Regional Airport,251.1
+cuva,TOL,Eugene F. Kranz Toledo Express Airport,118.0
+cuva,SCE,State College Regional Airport,196.0
+deva,BLD,Boulder City Municipal Airport,132.2
+deva,BFL,Meadows Field,129.9
+deva,BIH,Eastern Sierra Regional Airport,91.4
+deva,BUR,Hollywood Burbank/Bob Hope Airport,172.3
+deva,CCR,Buchanan Field,289.9
+deva,CDC,Cedar City Regional Airport,237.7
+deva,CLD,McClellan-Palomar Airport,232.3
+deva,FAT,Fresno Yosemite International Airport,144.6
+deva,GCN,Grand Canyon National Park Airport,280.4
+deva,HHR,Jack Northrop Field Hawthorne Municipal Airport,189.7
+deva,HII,Lake Havasu City Airport,204.7
+deva,IPL,Imperial County Airport,267.5
+deva,LAS,Harry Reid International Airport,113.9
+deva,LAX,Los Angeles International Airport,190.0
+deva,LGB,Long Beach International Airport,193.3
+deva,MCE,Merced Regional Macready Field,194.7
+deva,MMH,Mammoth Yosemite Airport,122.7
+deva,MRY,Monterey Regional Airport,261.5
+deva,OAK,Oakland San Francisco Bay Airport,292.9
+deva,ONT,Ontario International Airport,170.1
+deva,PRC,Prescott Regional Airport - Ernest A. Love Field,293.7
+deva,PSP,Palm Springs International Airport,187.0
+deva,RNO,Reno Tahoe International Airport,252.7
+deva,SAN,San Diego International Airport,259.4
+deva,SBA,Santa Barbara Municipal Airport,208.5
+deva,SBD,San Bernardino International Airport,165.3
+deva,SBP,San Luis County Regional Airport,214.6
+deva,SCK,Stockton Metropolitan Airport,245.8
+deva,SFO,San Francisco International Airport,299.3
+deva,SGU,St George Regional Airport,204.1
+deva,SJC,Mineta San Jose International Airport,271.6
+deva,SMF,Sacramento International Airport,287.7
+deva,SMX,Santa Maria Public Airport Captain G Allan Hancock Field,216.3
+deva,SNA,John Wayne Orange County International Airport,198.7
+deva,SQL,San Carlos Airport,291.0
+deva,TKF,Truckee Tahoe Airport,255.2
+dena,PDB,Pedro Bay Airport,262.2
+dena,MNT,Minto Al Wright Airport,137.5
+dena,TEK,Tatitlek Airport,219.0
+dena,CHU,Chuathbaluk Airport,286.5
+dena,CKD,Crooked Creek Airport,245.9
+dena,CKX,Chicken Airport,283.6
+dena,KEB,Nanwalek Airport,274.1
+dena,KGX,Grayling Airport,282.9
+dena,BTT,Bettles Airport,250.2
+dena,CEM,Central Airport,244.1
+dena,IRC,Circle City (New) Airport,270.7
+dena,CDV,Merle K (Mudhole) Smith Airport,265.4
+dena,ENA,Kenai Municipal Airport,188.5
+dena,FAI,Fairbanks International Airport,142.5
+dena,NIB,Nikolai Airport,105.0
+dena,GAL,Edward G. Pitka Sr Airport,203.9
+dena,GKN,Gulkana Airport,193.9
+dena,HCR,Holy Cross Airport,286.2
+dena,HSL,Huslia Airport,228.6
+dena,HOM,Homer Airport,252.8
+dena,HUS,Hughes Airport,211.9
+dena,ILI,Iliamna Airport,275.7
+dena,UTO,Indian Mountain LRRS Airport,202.0
+dena,KAL,Kaltag Airport,244.7
+dena,PTA,Port Alsworth Airport,239.1
+dena,MCG,McGrath Airport,144.2
+dena,LMA,Minchumina Airport,55.9
+dena,MLY,Manley Hot Springs Airport,117.7
+dena,MRI,Merrill Field,149.2
+dena,ANC,Ted Stevens Anchorage International Airport,150.3
+dena,ANI,Aniak Airport,295.9
+dena,NUL,Nulato Airport,234.3
+dena,ANV,Anvik Airport,290.2
+dena,ORT,Northway Airport,285.6
+dena,RBY,Ruby Airport,166.2
+dena,SLQ,Sleetmute Airport,224.0
+dena,SOV,Seldovia Airport,267.2
+dena,TAL,Ralph M Calhoun Memorial Airport,133.5
+dena,VDZ,Valdez Pioneer Field,215.2
+dena,VEE,Venetie Airport,290.1
+dena,WBQ,Beaver Airport,237.2
+dena,AET,Allakaket Airport,229.5
+dena,NCN,Chenega Bay Airport,244.0
+dena,KNK,Kokhanok Airport,294.4
+dena,KYU,Koyukuk Airport,229.0
+dena,TKJ,Tok Junction Airport,251.1
+dena,FYU,Fort Yukon Airport,282.6
+dena,PGM,Port Graham Airport,274.1
+dena,RDV,Red Devil Airport,226.0
+dena,RMP,Rampart Airport,155.1
+dena,SRV,Stony River 2 Airport,204.8
+dena,SVS,Stevens Village Airport,196.9
+dena,TCT,Takotna Airport,156.7
+dena,KBC,Birch Creek Airport,256.7
+drto,EYW,Key West International Airport,70.1
+drto,FLL,Fort Lauderdale Hollywood International Airport,197.0
+drto,LAL,Lakeland Linder International Airport,238.1
+drto,MCO,Orlando International Airport,279.8
+drto,MIA,Miami International Airport,180.5
+drto,MLB,Melbourne Orlando International Airport,276.9
+drto,OPF,Miami-Opa Locka Executive Airport,184.6
+drto,DJT,President Donald J. Trump International Airport,223.8
+drto,PGD,Punta Gorda Airport,167.6
+drto,PIE,St. Petersburg Clearwater International Airport,227.0
+drto,RSW,Southwest Florida International Airport,149.1
+drto,SRQ,Sarasota Bradenton International Airport,192.1
+drto,TPA,Tampa International Airport,232.2
+drto,VRB,Vero Beach Regional Airport,258.7
+ever,DAB,Daytona Beach International Airport,263.4
+ever,EYW,Key West International Airport,78.8
+ever,FLL,Fort Lauderdale Hollywood International Airport,66.3
+ever,LAL,Lakeland Linder International Airport,194.0
+ever,MCO,Orlando International Airport,212.8
+ever,MIA,Miami International Airport,47.1
+ever,MLB,Melbourne Orlando International Airport,189.1
+ever,OPF,Miami-Opa Locka Executive Airport,52.7
+ever,DJT,President Donald J. Trump International Airport,102.9
+ever,PGD,Punta Gorda Airport,127.1
+ever,PIE,St. Petersburg Clearwater International Airport,207.8
+ever,RSW,Southwest Florida International Airport,96.8
+ever,SFB,Orlando Sanford International Airport,236.0
+ever,SRQ,Sarasota Bradenton International Airport,173.9
+ever,TPA,Tampa International Airport,206.7
+ever,VRB,Vero Beach Regional Airport,160.3
+gaar,MNT,Minto Al Wright Airport,210.4
+gaar,BTI,Barter Island Long Range Radar Station Airport,291.0
+gaar,BKC,Buckland Airport,245.9
+gaar,BRW,Wiley Post Will Rogers Memorial Airport,257.6
+gaar,BTT,Bettles Airport,74.9
+gaar,CEM,Central Airport,277.2
+gaar,CIK,Chalkyitsik Airport,266.8
+gaar,IRC,Circle City (New) Airport,283.8
+gaar,DRG,Deering Airport,281.7
+gaar,FAI,Fairbanks International Airport,253.2
+gaar,ABL,Ambler Airport,129.1
+gaar,GAL,Edward G. Pitka Sr Airport,232.1
+gaar,SHG,Shungnak Airport,119.4
+gaar,HSL,Huslia Airport,165.1
+gaar,HUS,Hughes Airport,121.6
+gaar,IAN,Bob Baker Memorial Airport,197.5
+gaar,UTO,Indian Mountain LRRS Airport,122.6
+gaar,KKA,Koyuk Alfred Adams Airport,292.0
+gaar,AKP,Anaktuvuk Pass Airport,47.8
+gaar,KAL,Kaltag Airport,282.5
+gaar,LMA,Minchumina Airport,269.1
+gaar,MLY,Manley Hot Springs Airport,204.8
+gaar,NUL,Nulato Airport,248.0
+gaar,OBU,Kobuk Airport,112.4
+gaar,OTZ,Ralph Wien Memorial Airport,254.9
+gaar,NUI,Nuiqsut Airport,178.5
+gaar,ARC,Arctic Village Airport,201.5
+gaar,RBY,Ruby Airport,218.1
+gaar,SCC,Deadhorse Airport,206.3
+gaar,WLK,Selawik Airport,196.3
+gaar,TAL,Ralph M Calhoun Memorial Airport,181.6
+gaar,ATK,Atqasuk Edward Burnell Sr Memorial Airport,213.0
+gaar,VEE,Venetie Airport,191.1
+gaar,KVL,Kivalina Airport,294.4
+gaar,WBQ,Beaver Airport,185.5
+gaar,AIN,Wainwright Airport,257.8
+gaar,WTK,Noatak Airport,254.6
+gaar,AET,Allakaket Airport,85.4
+gaar,KYU,Koyukuk Airport,234.1
+gaar,ORV,Robert (Bob) Curtis Memorial Airport,216.0
+gaar,FYU,Fort Yukon Airport,230.5
+gaar,PIZ,Point Lay LRRS Airport,278.4
+gaar,RMP,Rampart Airport,177.9
+gaar,SVS,Stevens Village Airport,166.3
+gaar,KBC,Birch Creek Airport,225.9
+jeff,ALO,Waterloo Regional Airport,295.3
+jeff,BKG,Branson Airport,219.3
+jeff,BLV,Scott AFB/Midamerica Airport,19.9
+jeff,BMI,Central Illinois Regional Airport at Bloomington-Normal,144.8
+jeff,BNA,Nashville International Airport,258.9
+jeff,BRL,Southeast Iowa Regional Airport,157.1
+jeff,CGI,Cape Girardeau Regional Airport,102.5
+jeff,CID,The Eastern Iowa Airport,239.0
+jeff,CMI,University of Illinois Willard Airport,141.4
+jeff,COU,Columbia Regional Airport,110.3
+jeff,CVG,Cincinnati Northern Kentucky International Airport,298.5
+jeff,DBQ,Dubuque Regional Airport,262.3
+jeff,DEC,Decatur Airport,109.5
+jeff,DSM,Des Moines International Airport,271.9
+jeff,EVV,Evansville Regional Airport,149.6
+jeff,GYY,Gary/Chicago International Airport,253.4
+jeff,HRO,Boone County Airport,230.5
+jeff,IND,Indianapolis International Airport,221.8
+jeff,IRK,Kirksville Regional Airport,161.6
+jeff,JBR,Jonesboro Municipal Airport,194.7
+jeff,JLN,Joplin Regional Airport,256.1
+jeff,LAF,Purdue University Airport,212.7
+jeff,LIT,Bill & Hillary Clinton National Airport/Adams Field,291.9
+jeff,MCI,Kansas City International Airport,247.5
+jeff,MDW,Chicago Midway International Airport,253.4
+jeff,MEM,Frederick W. Smith International Airport,247.8
+jeff,MGC,Michigan City Municipal Airport,277.2
+jeff,MKL,McKellar-Sipes Regional Airport,220.5
+jeff,MLI,Quad City International Airport,195.8
+jeff,MWA,Veterans Airport of Southern Illinois,87.8
+jeff,ORD,Chicago O'Hare International Airport,261.0
+jeff,OWB,Owensboro Daviess County Airport,175.2
+jeff,PAH,Barkley Regional Airport,132.9
+jeff,PIA,General Wayne A. Downing Peoria International Airport,143.3
+jeff,RFD,Chicago Rockford International Airport,253.2
+jeff,SBN,South Bend International Airport,295.2
+jeff,SDF,Louisville Muhammad Ali International Airport,243.2
+jeff,SGF,Springfield Branson National Airport,198.7
+jeff,SPI,Abraham Lincoln Capital Airport,88.5
+jeff,STL,St. Louis Lambert International Airport,12.9
+jeff,TBN,Waynesville-St. Robert Regional Airport-Forney Field,122.3
+jeff,UIN,Quincy Regional Airport Baldwin Field,105.7
+jeff,XNA,Northwest Arkansas National Airport,277.9
+glba,PPV,Port Protection Seaplane Base,208.5
+glba,WWP,Whale Pass Seaplane Float Harbor Facility,231.2
+glba,NKI,Naukati Bay Seaplane Base,244.3
+glba,CGA,Craig Seaplane Base,268.0
+glba,CYM,Chatham Seaplane Base,112.5
+glba,EDA,Edna Bay Seaplane Base,229.8
+glba,EXI,Excursion Inlet Seaplane Base,56.6
+glba,HYL,Hollis Clark Bay Seaplane Base,278.0
+glba,KAE,Kake Seaplane Base,165.1
+glba,KCC,Coffman Cove Seaplane Base,243.5
+glba,KPB,Point Baker Seaplane Base,206.9
+glba,KTB,Thorne Bay Seaplane Base,268.9
+glba,KXA,Kasaan Seaplane Base,280.1
+glba,MYK,May Creek Airport,266.8
+glba,PTD,Port Alexander Seaplane Base,194.3
+glba,CYT,Yakataga Airport,217.3
+glba,ELV,Elfin Cove Seaplane Base,45.5
+glba,AGN,Angoon Seaplane Base,122.4
+glba,GST,Gustavus Airport,48.4
+glba,SGY,Skagway Airport,70.7
+glba,HNS,Haines Airport,55.9
+glba,HYG,Hydaburg Seaplane Base,290.6
+glba,JNU,Juneau International Airport,87.3
+glba,KLW,Klawock Airport,263.4
+glba,FNR,Funter Bay Seaplane Base,79.6
+glba,HNH,Hoonah Airport,71.0
+glba,PSG,Petersburg James A Johnson Airport,199.1
+glba,SIT,Sitka Rocky Gutierrez Airport,132.8
+glba,WRG,Wrangell Airport,230.0
+glba,YAK,Yakutat Airport,111.2
+glba,PEC,Pelican Seaplane Base,62.4
+glba,TKE,Tenakee Seaplane Base,91.9
+glac,ALW,Walla Walla Regional Airport,275.7
+glac,BTM,Bert Mooney Airport,198.2
+glac,BZN,Bozeman Yellowstone International Airport,236.0
+glac,GEG,Spokane International Airport,187.1
+glac,FCA,Glacier Park International Airport,33.2
+glac,GTF,Great Falls International Airport,139.6
+glac,HLN,Helena Regional Airport,166.6
+glac,HVR,Havre City County Airport,184.7
+glac,LWS,Lewiston Nez Perce County Airport,218.9
+glac,MSO,Missoula Montana Airport,122.9
+glac,MYL,McCall Municipal Airport,283.9
+glac,PSC,Tri Cities Airport,299.3
+glac,PUW,Pullman-Moscow Regional Airport,204.2
+glac,SMN,Lemhi County Airport,246.1
+grca,BLD,Boulder City Municipal Airport,153.1
+grca,CDC,Cedar City Regional Airport,129.3
+grca,CEZ,Cortez Municipal Airport,213.5
+grca,CNY,Canyonlands Regional Airport,230.4
+grca,DRO,Durango La Plata County Airport,255.0
+grca,FLG,Flagstaff Pulliam Airport,64.6
+grca,GCN,Grand Canyon National Park Airport,3.6
+grca,GJT,Grand Junction Regional Airport,292.1
+grca,GUP,Gallup Municipal Airport,189.9
+grca,HII,Lake Havasu City Airport,160.2
+grca,IPL,Imperial County Airport,294.1
+grca,AZA,Mesa Gateway Airport,187.9
+grca,LAS,Harry Reid International Airport,169.4
+grca,MTJ,Montrose Regional Airport,290.0
+grca,YUM,Yuma International Airport / Marine Corps Air Station Yuma,271.5
+grca,PGA,Page Municipal Airport,74.0
+grca,PHX,Phoenix Sky Harbor International Airport,177.3
+grca,PRC,Prescott Regional Airport - Ernest A. Love Field,94.6
+grca,PSP,Palm Springs International Airport,290.2
+grca,PVU,Provo Municipal Airport,292.3
+grca,SGU,St George Regional Airport,105.2
+grca,SOW,Show Low Regional Airport,169.3
+grca,TEX,Telluride Regional Airport,268.9
+grca,TUS,Tucson International Airport,276.8
+grte,BIL,Billings Logan International Airport,173.7
+grte,BOI,Boise Air Terminal/Gowen Field,276.2
+grte,BTM,Bert Mooney Airport,171.7
+grte,BZN,Bozeman Yellowstone International Airport,137.2
+grte,COD,Yellowstone Regional Airport,96.4
+grte,CPR,Casper-Natrona County International Airport,222.3
+grte,GCC,Northeast Wyoming Regional Airport,259.0
+grte,GTF,Great Falls International Airport,255.2
+grte,HDN,Yampa Valley Airport,291.6
+grte,HLN,Helena Regional Airport,202.4
+grte,IDA,Idaho Falls Regional Airport,71.4
+grte,JAC,Jackson Hole Airport,14.7
+grte,MSO,Missoula Montana Airport,269.8
+grte,MYL,McCall Municipal Airport,276.6
+grte,OGD,Ogden Hinckley Airport,193.0
+grte,PIH,Pocatello Regional Airport,113.8
+grte,PVU,Provo Municipal Airport,254.1
+grte,RIW,Central Wyoming Regional Airport,124.1
+grte,RKS,Southwest Wyoming Regional Airport,174.8
+grte,SHR,Sheridan County Airport,195.6
+grte,SLC,Salt Lake City International Airport,219.2
+grte,SMN,Lemhi County Airport,180.7
+grte,SUN,Friedman Memorial Airport,180.8
+grte,TWF,Joslin Field Magic Valley Regional Airport,211.8
+grte,VEL,Vernal Regional Airport,241.6
+grte,WYS,Yellowstone Airport,63.5
+grba,BLD,Boulder City Municipal Airport,209.8
+grba,BIH,Eastern Sierra Regional Airport,248.1
+grba,CDC,Cedar City Regional Airport,106.5
+grba,CNY,Canyonlands Regional Airport,242.6
+grba,EKO,Elko Regional Airport,153.2
+grba,FLG,Flagstaff Pulliam Airport,299.2
+grba,GCN,Grand Canyon National Park Airport,237.0
+grba,LAS,Harry Reid International Airport,203.8
+grba,MMH,Mammoth Yosemite Airport,264.8
+grba,OGD,Ogden Hinckley Airport,195.6
+grba,PGA,Page Municipal Airport,207.3
+grba,PIH,Pocatello Regional Airport,287.3
+grba,PVU,Provo Municipal Airport,161.1
+grba,RNO,Reno Tahoe International Airport,297.3
+grba,SGU,St George Regional Airport,138.1
+grba,SLC,Salt Lake City International Airport,175.5
+grba,TWF,Joslin Field Magic Valley Regional Airport,244.6
+grba,VEL,Vernal Regional Airport,272.5
+grsa,ABQ,Albuquerque International Sunport,198.4
+grsa,ALS,San Luis Valley Regional Airport/Bergman Field,28.9
+grsa,AMA,Rick Husband Amarillo International Airport,279.6
+grsa,ASE,Aspen-Pitkin County Airport (Sardy Field),120.6
+grsa,BJC,Rocky Mountain Metropolitan Airport,148.4
+grsa,CEZ,Cortez Municipal Airport,169.7
+grsa,CNY,Canyonlands Regional Airport,235.4
+grsa,COS,City of Colorado Springs Municipal Airport,85.1
+grsa,CVN,Clovis Municipal Airport,271.6
+grsa,CYS,Cheyenne Regional Jerry Olson Field,236.1
+grsa,DEN,Denver International Airport,151.2
+grsa,DRO,Durango La Plata County Airport,126.6
+grsa,EGE,Eagle County Regional Airport,146.5
+grsa,GCK,Garden City Regional Airport,265.7
+grsa,GJT,Grand Junction Regional Airport,183.7
+grsa,GUC,Gunnison Crested Butte Regional Airport,89.2
+grsa,GUP,Gallup Municipal Airport,237.1
+grsa,HDN,Yampa Valley Airport,205.2
+grsa,LAR,Laramie Regional Airport,243.2
+grsa,LBL,Liberal Mid-America Regional Airport,259.4
+grsa,MTJ,Montrose Regional Airport,134.5
+grsa,PUB,Pueblo Memorial Airport,68.8
+grsa,SAF,Santa Fe Municipal Airport,152.8
+grsa,TSM,Taos Regional Airport,92.7
+grsa,TEX,Telluride Regional Airport,126.8
+grsa,VEL,Vernal Regional Airport,278.4
+grsm,ABY,Southwest Georgia Regional Airport,283.9
+grsm,AGS,Augusta Regional At Bush Field,177.5
+grsm,ATL,Hartsfield Jackson Atlanta International Airport,145.5
+grsm,AVL,Asheville Regional Airport,55.5
+grsm,BHM,Birmingham-Shuttlesworth International Airport,232.0
+grsm,BKW,Raleigh County Memorial Airport,200.6
+grsm,BNA,Nashville International Airport,181.1
+grsm,CAE,Columbia Metropolitan Airport,177.6
+grsm,CHA,Chattanooga Metropolitan Airport (Lovell Field),103.3
+grsm,CHS,Charleston International Airport,272.4
+grsm,CLT,Charlotte Douglas International Airport,146.9
+grsm,CRW,Yeager Airport,218.7
+grsm,CSG,Columbus Airport,228.3
+grsm,CVG,Cincinnati Northern Kentucky International Airport,246.6
+grsm,DAY,James M. Cox Dayton International Airport,299.7
+grsm,EVV,Evansville Regional Airport,279.0
+grsm,FAY,Fayetteville Regional Airport - Grannis Field,264.3
+grsm,FLO,Florence Regional Airport,235.7
+grsm,GSO,Piedmont Triad International Airport,202.9
+grsm,GSP,Greenville-Spartanburg International Airport,87.6
+grsm,HSV,Huntsville International Airport,196.3
+grsm,HTS,Tri-State Airport / Milton J. Ferguson Field,198.1
+grsm,HHH,Hilton Head Airport,283.5
+grsm,USA,Concord-Padgett Regional Airport,158.1
+grsm,LCK,Rickenbacker International Airport,292.8
+grsm,LEX,Blue Grass Airport,178.8
+grsm,LUK,Cincinnati Municipal Airport Lunken Field,247.0
+grsm,LWB,Greenbrier Valley Airport,232.2
+grsm,LYH,Lynchburg Regional Airport - Preston Glenn Field,267.4
+grsm,MCN,Middle Georgia Regional Airport,201.1
+grsm,MGM,Montgomery Regional (Dannelly Field) Airport,281.7
+grsm,MSL,Northwest Alabama Regional Airport,239.2
+grsm,MYR,Myrtle Beach International Airport,292.2
+grsm,OWB,Owensboro Daviess County Airport,250.9
+grsm,PDK,DeKalb Peachtree Airport,127.4
+grsm,PKB,Mid Ohio Valley Regional Airport,282.4
+grsm,RDU,Raleigh-Durham International Airport,265.4
+grsm,ROA,Roanoke–Blacksburg Regional Airport,229.6
+grsm,SAV,Savannah Hilton Head International Airport,274.2
+grsm,SDF,Louisville Muhammad Ali International Airport,216.0
+grsm,TRI,Tri-Cities Regional TN/VA Airport,86.2
+grsm,TYS,McGhee Tyson Airport,30.9
+gumo,ABQ,Albuquerque International Sunport,237.1
+gumo,AMA,Rick Husband Amarillo International Airport,292.1
+gumo,CNM,Cavern City Air Terminal,46.3
+gumo,CVN,Clovis Municipal Airport,202.1
+gumo,ELP,El Paso International Airport,87.8
+gumo,HOB,Lea County Regional Airport,110.8
+gumo,LBB,Lubbock Preston Smith International Airport,214.7
+gumo,LRU,Las Cruces International Airport,121.8
+gumo,MAF,Midland International Air and Space Port,157.4
+gumo,ROW,Roswell Air Center Airport,97.5
+gumo,SAF,Santa Fe Municipal Airport,264.4
+gumo,SJT,San Angelo Regional Mathis Field,261.1
+gumo,SVC,Grant County Airport,197.2
+hale,HNM,Hana Airport,11.2
+hale,JHM,Kapalua Airport,37.6
+hale,KOA,Ellison Onizuka Kona International Airport at Keāhole,67.3
+hale,LIH,Lihue Airport,222.5
+hale,LUP,Kalaupapa Airport,63.1
+hale,MKK,Molokai Airport,67.9
+hale,MUE,Waimea Kohala Airport,58.2
+hale,HNL,Daniel K. Inouye International Airport,121.5
+hale,LNY,Lanai Airport,51.5
+hale,OGG,Kahului International Airport,21.9
+hale,ITO,Hilo International Airport,99.3
+havo,HNM,Hana Airport,106.9
+havo,JHM,Kapalua Airport,136.9
+havo,KOA,Ellison Onizuka Kona International Airport at Keāhole,46.7
+havo,LUP,Kalaupapa Airport,162.2
+havo,MKK,Molokai Airport,163.9
+havo,MUE,Waimea Kohala Airport,47.8
+havo,HNL,Daniel K. Inouye International Airport,210.0
+havo,LNY,Lanai Airport,138.9
+havo,OGG,Kahului International Airport,124.6
+havo,ITO,Hilo International Airport,38.4
+hosp,AEX,Alexandria International Airport,223.0
+hosp,BKG,Branson Airport,139.0
+hosp,BTR,Baton Rouge Metropolitan Airport,297.4
+hosp,CGI,Cape Girardeau Regional Airport,270.3
+hosp,DAL,Dallas Love Field,246.6
+hosp,DFW,Dallas Fort Worth International Airport,254.6
+hosp,ELD,South Arkansas Regional Airport at Goodwin Field,91.2
+hosp,FSM,Fort Smith Regional Airport,92.8
+hosp,FTW,Fort Worth Meacham International Airport,273.7
+hosp,GGG,East Texas Regional Airport,175.8
+hosp,GLH,Mid Delta Regional Airport,139.1
+hosp,GTR,Golden Triangle Regional Airport,266.7
+hosp,HOT,Memorial Field Airport,3.7
+hosp,HRO,Boone County Airport,120.2
+hosp,JAN,Jackson-Medgar Wiley Evers International Airport,230.3
+hosp,JBR,Jonesboro Municipal Airport,163.7
+hosp,JLN,Joplin Regional Airport,198.5
+hosp,LIT,Bill & Hillary Clinton National Airport/Adams Field,49.8
+hosp,MEI,Key Field / Meridian Regional Airport,291.1
+hosp,MEM,Frederick W. Smith International Airport,178.8
+hosp,MKL,McKellar-Sipes Regional Airport,246.0
+hosp,MLU,Monroe Regional Airport,151.1
+hosp,OKC,OKC Will Rogers World Airport,263.7
+hosp,PAH,Barkley Regional Airport,297.5
+hosp,SGF,Springfield Branson National Airport,188.9
+hosp,SHV,Shreveport Regional Airport,150.3
+hosp,SWO,Stillwater Regional Airport,253.3
+hosp,TBN,Waynesville-St. Robert Regional Airport-Forney Field,228.2
+hosp,TUL,Tulsa International Airport,196.6
+hosp,TUP,Tupelo Regional Airport,245.4
+hosp,TXK,Texarkana Regional Airport (Webb Field),91.1
+hosp,TYR,Tyler Pounds Regional Airport,201.7
+hosp,XNA,Northwest Arkansas National Airport,140.2
+indu,ALO,Waterloo Regional Airport,279.2
+indu,APN,Alpena County Regional Airport,296.7
+indu,ATW,Appleton International Airport,194.8
+indu,AZO,Kalamazoo/Battle Creek International Airport,89.5
+indu,BLV,Scott AFB/Midamerica Airport,258.1
+indu,BMI,Central Illinois Regional Airport at Bloomington-Normal,124.2
+indu,BRL,Southeast Iowa Regional Airport,217.6
+indu,CAK,Akron Canton Regional Airport,297.8
+indu,CID,The Eastern Iowa Airport,238.4
+indu,CLE,Cleveland Hopkins International Airport,271.8
+indu,CMH,John Glenn Columbus International Airport,247.3
+indu,CMI,University of Illinois Willard Airport,126.5
+indu,CVG,Cincinnati Northern Kentucky International Airport,219.9
+indu,CWA,Central Wisconsin Airport,252.7
+indu,DAY,James M. Cox Dayton International Airport,192.4
+indu,DBQ,Dubuque Regional Airport,192.8
+indu,DEC,Decatur Airport,155.2
+indu,DTW,Detroit Metropolitan Wayne County Airport,196.5
+indu,ESC,Delta County Airport,282.3
+indu,EVV,Evansville Regional Airport,249.9
+indu,FNT,Bishop International Airport,194.5
+indu,FWA,Fort Wayne International Airport,108.7
+indu,GRB,Austin Straubel International Airport,203.4
+indu,GRR,Gerald R. Ford International Airport,117.7
+indu,GYY,Gary/Chicago International Airport,16.4
+indu,IMT,Ford Airport,293.3
+indu,IND,Indianapolis International Airport,139.2
+indu,LAF,Purdue University Airport,85.0
+indu,LAN,Capital Region International Airport,150.7
+indu,LCK,Rickenbacker International Airport,252.0
+indu,LEX,Blue Grass Airport,281.8
+indu,LSE,La Crosse Regional Airport,261.7
+indu,LUK,Cincinnati Municipal Airport Lunken Field,224.8
+indu,MBL,Manistee County Blacker Airport,187.1
+indu,MBS,MBS International Airport,201.6
+indu,MDW,Chicago Midway International Airport,35.4
+indu,MGC,Michigan City Municipal Airport,14.9
+indu,MKE,General Mitchell International Airport,99.3
+indu,MKG,Muskegon County Airport,114.5
+indu,MLI,Quad City International Airport,176.9
+indu,MSN,Dane County Regional Truax Field,154.4
+indu,MWA,Veterans Airport of Southern Illinois,287.3
+indu,ORD,Chicago O'Hare International Airport,47.8
+indu,OWB,Owensboro Daviess County Airport,269.3
+indu,PIA,General Wayne A. Downing Peoria International Airport,150.9
+indu,PLN,Pellston Regional Airport of Emmet County Airport,295.1
+indu,RFD,Chicago Rockford International Airport,109.8
+indu,SBN,South Bend International Airport,40.5
+indu,SDF,Louisville Muhammad Ali International Airport,250.2
+indu,SPI,Abraham Lincoln Capital Airport,183.3
+indu,STL,St. Louis Lambert International Airport,264.0
+indu,TOL,Eugene F. Kranz Toledo Express Airport,169.9
+indu,TVC,Cherry Capital Airport,227.6
+indu,UIN,Quincy Regional Airport Baldwin Field,244.2
+isro,ATW,Appleton International Airport,259.7
+isro,BRD,Brainerd Lakes Regional Airport,272.5
+isro,CIU,Chippewa County International Airport,238.8
+isro,CMX,Houghton County Memorial Airport,60.4
+isro,CWA,Central Wisconsin Airport,227.0
+isro,DLH,Duluth International Airport,177.1
+isro,EAU,Chippewa Valley Regional Airport,251.4
+isro,ESC,Delta County Airport,178.2
+isro,GRB,Austin Straubel International Airport,246.0
+isro,HIB,Range Regional Airport,191.4
+isro,IMT,Ford Airport,155.2
+isro,INL,Falls International Airport,213.8
+isro,IWD,Gogebic Iron County Airport,119.5
+isro,MBL,Manistee County Blacker Airport,286.3
+isro,PLN,Pellston Regional Airport of Emmet County Airport,254.5
+isro,RHI,Rhinelander Oneida County Airport,167.2
+isro,MQT,Marquette Sawyer Regional Airport,132.9
+isro,TVC,Cherry Capital Airport,273.8
+jotr,BLD,Boulder City Municipal Airport,151.1
+jotr,BFL,Meadows Field,210.8
+jotr,BIH,Eastern Sierra Regional Airport,277.8
+jotr,BUR,Hollywood Burbank/Bob Hope Airport,145.5
+jotr,CLD,McClellan-Palomar Airport,99.1
+jotr,FAT,Fresno Yosemite International Airport,294.7
+jotr,FLG,Flagstaff Pulliam Airport,252.0
+jotr,GCN,Grand Canyon National Park Airport,252.1
+jotr,HHR,Jack Northrop Field Hawthorne Municipal Airport,143.1
+jotr,HII,Lake Havasu City Airport,96.0
+jotr,IPL,Imperial County Airport,76.1
+jotr,AZA,Mesa Gateway Airport,244.4
+jotr,LAS,Harry Reid International Airport,154.9
+jotr,LAX,Los Angeles International Airport,147.2
+jotr,LGB,Long Beach International Airport,132.7
+jotr,YUM,Yuma International Airport / Marine Corps Air Station Yuma,112.6
+jotr,ONT,Ontario International Airport,101.4
+jotr,PHX,Phoenix Sky Harbor International Airport,222.9
+jotr,PRC,Prescott Regional Airport - Ernest A. Love Field,201.8
+jotr,PSP,Palm Springs International Airport,38.7
+jotr,SAN,San Diego International Airport,112.8
+jotr,SBA,Santa Barbara Municipal Airport,231.4
+jotr,SBD,San Bernardino International Airport,81.0
+jotr,SBP,San Luis County Regional Airport,288.0
+jotr,SGU,St George Regional Airport,252.4
+jotr,SMX,Santa Maria Public Airport Captain G Allan Hancock Field,271.8
+jotr,SNA,John Wayne Orange County International Airport,117.7
+katm,ATT,Atmautluak Airport,296.3
+katm,PDB,Pedro Bay Airport,87.0
+katm,KOZ,Ouzinkie Airport,103.8
+katm,WKK,Aleknagik / New Airport,136.3
+katm,BKF,Lake Brooks Seaplane Base,27.9
+katm,CHU,Chuathbaluk Airport,250.3
+katm,WTL,Tuntutuliak Airport,293.3
+katm,TWA,Twin Hills Airport,190.6
+katm,KCQ,Chignik Lake Airport,215.2
+katm,AOS,Amook Bay Seaplane Base,90.8
+katm,ALZ,Alitak Seaplane Base,122.5
+katm,CKD,Crooked Creek Airport,248.6
+katm,GNU,Goodnews Airport,236.8
+katm,KEB,Nanwalek Airport,120.9
+katm,KKB,Kitoi Bay Seaplane Base,100.2
+katm,KMY,Moser Bay Seaplane Base,114.8
+katm,KOY,Olga Bay Seaplane Base,104.9
+katm,KPR,Port Williams Seaplane Base,88.1
+katm,KPY,Port Bailey Seaplane Base,86.1
+katm,KWP,West Point Village Seaplane Base,79.4
+katm,KZB,Zachar Bay Seaplane Base,87.2
+katm,OLH,Old Harbor Airport,116.2
+katm,ORI,Port Lions Airport,93.8
+katm,BET,Bethel Airport,280.6
+katm,DLG,Dillingham Airport,128.2
+katm,ADQ,Kodiak Airport,109.8
+katm,KKH,Kongiganak Airport,292.4
+katm,EEK,Eek Airport,270.3
+katm,ENA,Kenai Municipal Airport,188.3
+katm,HCR,Holy Cross Airport,295.0
+katm,HOM,Homer Airport,143.8
+katm,IGG,Igiugig Airport,57.9
+katm,EGX,Egegik Airport,90.7
+katm,ILI,Iliamna Airport,78.3
+katm,KCG,Chignik Airport,202.6
+katm,KGK,Koliganek Airport,110.2
+katm,AKK,Akhiok Airport,120.3
+katm,AKN,King Salmon Airport,59.1
+katm,KYK,Karluk Airport,75.8
+katm,KLN,Larsen Bay Airport,84.1
+katm,KLG,Kalskag Airport,272.3
+katm,PTA,Port Alsworth Airport,111.8
+katm,KMO,Manokotak Airport,140.9
+katm,MCG,McGrath Airport,299.9
+katm,MRI,Merrill Field,253.0
+katm,WNA,Napakiak Airport,281.8
+katm,ANC,Ted Stevens Anchorage International Airport,247.8
+katm,ANI,Aniak Airport,257.1
+katm,KNW,New Stuyahok Airport,101.6
+katm,NLG,Nelson Lagoon Airport,291.8
+katm,KPV,Perryville Airport,243.3
+katm,PTH,Port Heiden Airport,176.0
+katm,PKA,Napaskiak Airport,276.2
+katm,PTU,Platinum Airport,245.2
+katm,PIP,Pilot Point Airport,117.9
+katm,KWN,Quinhagak Airport,254.0
+katm,SLQ,Sleetmute Airport,225.2
+katm,SOV,Seldovia Airport,130.5
+katm,TOG,Togiak Airport,194.7
+katm,AKI,Akiak Airport,267.5
+katm,NCN,Chenega Bay Airport,266.7
+katm,CLP,Clarks Point Airport,126.9
+katm,KNK,Kokhanok Airport,56.5
+katm,KWT,Kwethluk Airport,269.4
+katm,WSN,South Naknek Number 2 Airport,71.8
+katm,PGM,Port Graham Airport,123.9
+katm,RDV,Red Devil Airport,233.0
+katm,SRV,Stony River 2 Airport,225.4
+katm,SYB,Seal Bay Seaplane Base,102.9
+katm,TLT,Tuluksak Airport,266.4
+katm,UGI,San Juan /Uganik/ Seaplane Base,87.2
+katm,KKI,Akiachak Airport,275.3
+kefj,PDB,Pedro Bay Airport,139.8
+kefj,KOZ,Ouzinkie Airport,154.5
+kefj,BKF,Lake Brooks Seaplane Base,218.8
+kefj,TEK,Tatitlek Airport,137.6
+kefj,AOS,Amook Bay Seaplane Base,209.8
+kefj,ALZ,Alitak Seaplane Base,251.5
+kefj,KEB,Nanwalek Airport,71.3
+kefj,KKB,Kitoi Bay Seaplane Base,138.3
+kefj,KMY,Moser Bay Seaplane Base,242.0
+kefj,KOY,Olga Bay Seaplane Base,236.3
+kefj,KPR,Port Williams Seaplane Base,126.9
+kefj,KPY,Port Bailey Seaplane Base,167.2
+kefj,KWP,West Point Village Seaplane Base,187.6
+kefj,KZB,Zachar Bay Seaplane Base,203.8
+kefj,MYK,May Creek Airport,272.6
+kefj,OLH,Old Harbor Airport,212.8
+kefj,ORI,Port Lions Airport,165.6
+kefj,CDV,Merle K (Mudhole) Smith Airport,165.8
+kefj,CYT,Yakataga Airport,263.9
+kefj,DLG,Dillingham Airport,299.7
+kefj,ADQ,Kodiak Airport,166.5
+kefj,ENA,Kenai Municipal Airport,65.1
+kefj,NIB,Nikolai Airport,261.9
+kefj,GKN,Gulkana Airport,224.4
+kefj,HOM,Homer Airport,49.3
+kefj,IGG,Igiugig Airport,205.6
+kefj,EGX,Egegik Airport,282.0
+kefj,ILI,Iliamna Airport,167.1
+kefj,KGK,Koliganek Airport,248.8
+kefj,AKK,Akhiok Airport,247.7
+kefj,AKN,King Salmon Airport,244.2
+kefj,KYK,Karluk Airport,220.3
+kefj,KLN,Larsen Bay Airport,210.2
+kefj,PTA,Port Alsworth Airport,148.1
+kefj,MCG,McGrath Airport,282.7
+kefj,LMA,Minchumina Airport,290.0
+kefj,MRI,Merrill Field,96.8
+kefj,ANC,Ted Stevens Anchorage International Airport,94.1
+kefj,KNW,New Stuyahok Airport,255.0
+kefj,SLQ,Sleetmute Airport,271.3
+kefj,SOV,Seldovia Airport,61.6
+kefj,VDZ,Valdez Pioneer Field,159.7
+kefj,NCN,Chenega Bay Airport,75.2
+kefj,KNK,Kokhanok Airport,166.2
+kefj,WSN,South Naknek Number 2 Airport,255.4
+kefj,PGM,Port Graham Airport,68.5
+kefj,RDV,Red Devil Airport,279.3
+kefj,SRV,Stony River 2 Airport,257.3
+kefj,SYB,Seal Bay Seaplane Base,124.5
+kefj,TCT,Takotna Airport,293.9
+kefj,UGI,San Juan /Uganik/ Seaplane Base,184.5
+kova,DIO,Diomede Heliport,289.6
+kova,BKC,Buckland Airport,108.9
+kova,BRW,Wiley Post Will Rogers Memorial Airport,277.8
+kova,BTT,Bettles Airport,208.1
+kova,DRG,Deering Airport,131.9
+kova,ABL,Ambler Airport,39.9
+kova,GAL,Edward G. Pitka Sr Airport,191.8
+kova,SHG,Shungnak Airport,63.6
+kova,GLV,Golovin Airport,221.4
+kova,HSL,Huslia Airport,138.8
+kova,HUS,Hughes Airport,162.6
+kova,IAN,Bob Baker Memorial Airport,42.3
+kova,UTO,Indian Mountain LRRS Airport,177.3
+kova,WAA,Wales Airport,272.5
+kova,KKA,Koyuk Alfred Adams Airport,175.7
+kova,AKP,Anaktuvuk Pass Airport,202.3
+kova,KAL,Kaltag Airport,210.3
+kova,LUR,Cape Lisburne LRRS Airport,206.4
+kova,SMK,St Michael Airport,279.8
+kova,MLY,Manley Hot Springs Airport,289.0
+kova,NUL,Nulato Airport,184.2
+kova,OBU,Kobuk Airport,69.0
+kova,OME,Nome Airport,263.5
+kova,OTZ,Ralph Wien Memorial Airport,96.9
+kova,PHO,Point Hope Airport,209.3
+kova,NUI,Nuiqsut Airport,283.9
+kova,RBY,Ruby Airport,209.6
+kova,SHH,Shishmaref Airport,202.3
+kova,WLK,Selawik Airport,56.4
+kova,TAL,Ralph M Calhoun Memorial Airport,248.0
+kova,TNC,Tin City Long Range Radar Station Airport,270.4
+kova,TLA,Teller Airport,246.1
+kova,ATK,Atqasuk Edward Burnell Sr Memorial Airport,219.3
+kova,UNK,Unalakleet Airport,243.9
+kova,KVL,Kivalina Airport,143.8
+kova,AIN,Wainwright Airport,227.6
+kova,WMO,White Mountain Airport,218.9
+kova,WTK,Noatak Airport,101.1
+kova,AET,Allakaket Airport,186.3
+kova,ELI,Elim Airport,208.1
+kova,KTS,Brevig Mission Airport,245.0
+kova,KYU,Koyukuk Airport,176.2
+kova,ORV,Robert (Bob) Curtis Memorial Airport,61.5
+kova,SKK,Shaktoolik Airport,214.0
+kova,PIZ,Point Lay LRRS Airport,190.2
+kova,RMP,Rampart Airport,280.6
+kova,SVS,Stevens Village Airport,292.0
+kova,WBB,Stebbins Airport,279.6
+lacl,ATT,Atmautluak Airport,295.1
+lacl,PDB,Pedro Bay Airport,57.2
+lacl,KOZ,Ouzinkie Airport,185.9
+lacl,WKK,Aleknagik / New Airport,196.6
+lacl,BKF,Lake Brooks Seaplane Base,159.7
+lacl,TEK,Tatitlek Airport,232.8
+lacl,CHU,Chuathbaluk Airport,201.4
+lacl,TWA,Twin Hills Airport,255.2
+lacl,AOS,Amook Bay Seaplane Base,214.6
+lacl,ALZ,Alitak Seaplane Base,255.3
+lacl,CKD,Crooked Creek Airport,176.7
+lacl,GNU,Goodnews Airport,295.8
+lacl,KEB,Nanwalek Airport,101.5
+lacl,KGX,Grayling Airport,266.5
+lacl,KKB,Kitoi Bay Seaplane Base,169.9
+lacl,KMY,Moser Bay Seaplane Base,246.1
+lacl,KOY,Olga Bay Seaplane Base,237.0
+lacl,KPR,Port Williams Seaplane Base,148.0
+lacl,KPY,Port Bailey Seaplane Base,183.5
+lacl,KWP,West Point Village Seaplane Base,193.7
+lacl,KZB,Zachar Bay Seaplane Base,208.8
+lacl,OLH,Old Harbor Airport,232.1
+lacl,ORI,Port Lions Airport,187.5
+lacl,BET,Bethel Airport,280.4
+lacl,CDV,Merle K (Mudhole) Smith Airport,274.4
+lacl,DLG,Dillingham Airport,201.8
+lacl,MLL,Marshall Don Hunter Sr Airport,295.3
+lacl,ADQ,Kodiak Airport,198.7
+lacl,EEK,Eek Airport,290.6
+lacl,ENA,Kenai Municipal Airport,78.4
+lacl,NIB,Nikolai Airport,170.9
+lacl,GKN,Gulkana Airport,289.4
+lacl,HCR,Holy Cross Airport,234.0
+lacl,HOM,Homer Airport,96.1
+lacl,IGG,Igiugig Airport,118.5
+lacl,EGX,Egegik Airport,212.8
+lacl,ILI,Iliamna Airport,73.3
+lacl,KGK,Koliganek Airport,140.2
+lacl,AKK,Akhiok Airport,252.2
+lacl,AKN,King Salmon Airport,169.9
+lacl,KYK,Karluk Airport,210.3
+lacl,KLN,Larsen Bay Airport,210.5
+lacl,KLG,Kalskag Airport,236.3
+lacl,PTA,Port Alsworth Airport,36.8
+lacl,KMO,Manokotak Airport,217.8
+lacl,MCG,McGrath Airport,177.5
+lacl,LMA,Minchumina Airport,232.4
+lacl,MRI,Merrill Field,132.3
+lacl,WNA,Napakiak Airport,285.4
+lacl,ANC,Ted Stevens Anchorage International Airport,126.9
+lacl,ANI,Aniak Airport,211.8
+lacl,ANV,Anvik Airport,260.6
+lacl,KNW,New Stuyahok Airport,152.9
+lacl,PKA,Napaskiak Airport,278.5
+lacl,PIP,Pilot Point Airport,251.1
+lacl,KWN,Quinhagak Airport,290.3
+lacl,RSH,Russian Mission Airport,271.4
+lacl,RBY,Ruby Airport,293.3
+lacl,SLQ,Sleetmute Airport,143.4
+lacl,SOV,Seldovia Airport,100.9
+lacl,TOG,Togiak Airport,259.7
+lacl,VDZ,Valdez Pioneer Field,248.8
+lacl,AKI,Akiak Airport,260.1
+lacl,NCN,Chenega Bay Airport,193.2
+lacl,CLP,Clarks Point Airport,210.9
+lacl,KNK,Kokhanok Airport,89.8
+lacl,KWT,Kwethluk Airport,267.1
+lacl,WSN,South Naknek Number 2 Airport,176.7
+lacl,PGM,Port Graham Airport,103.6
+lacl,RDV,Red Devil Airport,151.7
+lacl,SRV,Stony River 2 Airport,131.4
+lacl,SYB,Seal Bay Seaplane Base,159.3
+lacl,TCT,Takotna Airport,185.6
+lacl,TLT,Tuluksak Airport,250.5
+lacl,UGI,San Juan /Uganik/ Seaplane Base,196.7
+lacl,KKI,Akiachak Airport,268.9
+lavo,ACV,California Redwood Coast-Humboldt County Airport,145.3
+lavo,BIH,Eastern Sierra Regional Airport,270.6
+lavo,CCR,Buchanan Field,176.5
+lavo,CEC,Jack Mc Namara Field Airport,171.9
+lavo,EKO,Elko Regional Airport,295.2
+lavo,EUG,Eugene Airport,267.3
+lavo,FAT,Fresno Yosemite International Airport,272.6
+lavo,MCE,Merced Regional Macready Field,226.9
+lavo,MFR,Rogue Valley International-Medford Airport,150.5
+lavo,MMH,Mammoth Yosemite Airport,241.2
+lavo,MRY,Monterey Regional Airport,271.0
+lavo,OAK,Oakland San Francisco Bay Airport,196.5
+lavo,OTH,Southwest Oregon Regional Airport,249.1
+lavo,RDD,Redding Municipal Airport,46.5
+lavo,RDM,Roberts Field,260.2
+lavo,RNO,Reno Tahoe International Airport,110.7
+lavo,SCK,Stockton Metropolitan Airport,179.9
+lavo,SFO,San Francisco International Airport,205.2
+lavo,SJC,Mineta San Jose International Airport,218.1
+lavo,SMF,Sacramento International Airport,124.6
+lavo,SQL,San Carlos Airport,210.8
+lavo,STS,Charles M. Schulz Sonoma County Airport,156.3
+lavo,TKF,Truckee Tahoe Airport,105.4
+maca,ATL,Hartsfield Jackson Atlanta International Airport,264.0
+maca,AVL,Asheville Regional Airport,234.0
+maca,BHM,Birmingham-Shuttlesworth International Airport,253.6
+maca,BKW,Raleigh County Memorial Airport,277.4
+maca,BLV,Scott AFB/Midamerica Airport,222.4
+maca,BMI,Central Illinois Regional Airport at Bloomington-Normal,271.6
+maca,BNA,Nashville International Airport,80.1
+maca,CGI,Cape Girardeau Regional Airport,189.3
+maca,CHA,Chattanooga Metropolitan Airport (Lovell Field),158.1
+maca,CMH,John Glenn Columbus International Airport,260.8
+maca,CMI,University of Illinois Willard Airport,228.0
+maca,CRW,Yeager Airport,260.7
+maca,CVG,Cincinnati Northern Kentucky International Airport,150.6
+maca,DAY,James M. Cox Dayton International Airport,213.5
+maca,DEC,Decatur Airport,234.6
+maca,EVV,Evansville Regional Airport,96.2
+maca,FWA,Fort Wayne International Airport,266.0
+maca,GSP,Greenville-Spartanburg International Airport,270.2
+maca,GTR,Golden Triangle Regional Airport,293.7
+maca,HSV,Huntsville International Airport,180.6
+maca,HTS,Tri-State Airport / Milton J. Ferguson Field,211.2
+maca,IND,Indianapolis International Airport,174.3
+maca,JBR,Jonesboro Municipal Airport,267.9
+maca,LAF,Purdue University Airport,226.4
+maca,LCK,Rickenbacker International Airport,250.3
+maca,LEX,Blue Grass Airport,101.5
+maca,LUK,Cincinnati Municipal Airport Lunken Field,161.2
+maca,MEM,Frederick W. Smith International Airport,261.1
+maca,MKL,McKellar-Sipes Regional Airport,190.2
+maca,MSL,Northwest Alabama Regional Airport,188.6
+maca,MWA,Veterans Airport of Southern Illinois,162.8
+maca,OWB,Owensboro Daviess County Airport,68.1
+maca,PAH,Barkley Regional Airport,145.9
+maca,PDK,DeKalb Peachtree Airport,251.4
+maca,PKB,Mid Ohio Valley Regional Airport,294.5
+maca,SDF,Louisville Muhammad Ali International Airport,70.6
+maca,SPI,Abraham Lincoln Capital Airport,264.9
+maca,STL,St. Louis Lambert International Airport,254.5
+maca,TRI,Tri-Cities Regional TN/VA Airport,211.9
+maca,TUP,Tupelo Regional Airport,250.7
+maca,TYS,McGhee Tyson Airport,152.5
+meve,ABQ,Albuquerque International Sunport,183.8
+meve,ALS,San Luis Valley Regional Airport/Bergman Field,143.2
+meve,ASE,Aspen-Pitkin County Airport (Sardy Field),162.1
+meve,BJC,Rocky Mountain Metropolitan Airport,258.2
+meve,CDC,Cedar City Regional Airport,256.2
+meve,CEZ,Cortez Municipal Airport,10.1
+meve,CNY,Canyonlands Regional Airport,126.2
+meve,COS,City of Colorado Springs Municipal Airport,231.6
+meve,DEN,Denver International Airport,273.3
+meve,DRO,Durango La Plata County Airport,39.5
+meve,EGE,Eagle County Regional Airport,185.9
+meve,FLG,Flagstaff Pulliam Airport,230.3
+meve,GCN,Grand Canyon National Park Airport,222.9
+meve,GJT,Grand Junction Regional Airport,130.5
+meve,GUC,Gunnison Crested Butte Regional Airport,122.3
+meve,GUP,Gallup Municipal Airport,120.7
+meve,HDN,Yampa Valley Airport,233.8
+meve,MTJ,Montrose Regional Airport,93.1
+meve,PGA,Page Municipal Airport,166.0
+meve,PRC,Prescott Regional Airport - Ernest A. Love Field,284.4
+meve,PUB,Pueblo Memorial Airport,228.4
+meve,PVU,Provo Municipal Airport,270.6
+meve,SAF,Santa Fe Municipal Airport,173.1
+meve,SGU,St George Regional Airport,278.4
+meve,TSM,Taos Regional Airport,163.3
+meve,SOW,Show Low Regional Airport,223.1
+meve,TEX,Telluride Regional Airport,58.0
+meve,VEL,Vernal Regional Airport,228.0
+mora,BYW,Blakely Island Airport,129.6
+mora,CWS,Center Island Airport,124.2
+mora,SSW,Stuart Island Airpark,142.7
+mora,WDN,Waldron Airstrip,141.7
+mora,DHB,Deer Harbor SPB,135.5
+mora,OTS,Anacortes Airport,121.6
+mora,ALW,Walla Walla Regional Airport,170.9
+mora,BFI,King County International Airport - Boeing Field,53.9
+mora,BLI,Bellingham International Airport,139.0
+mora,EAT,Pangborn Memorial Airport,79.6
+mora,EUG,Eugene Airport,202.7
+mora,FRD,Friday Harbor Airport,130.3
+mora,GEG,Spokane International Airport,202.5
+mora,LWS,Lewiston Nez Perce County Airport,225.0
+mora,OLM,Olympia Regional Airport,57.1
+mora,ESD,Orcas Island Airport,139.4
+mora,OTH,Southwest Oregon Regional Airport,268.2
+mora,PAE,Seattle Paine Field International Airport,77.1
+mora,PDT,Eastern Oregon Regional Airport at Pendleton,158.7
+mora,PDX,Portland International Airport,97.7
+mora,PSC,Tri Cities Airport,129.5
+mora,PUW,Pullman-Moscow Regional Airport,217.3
+mora,RDM,Roberts Field,182.1
+mora,SEA,Seattle–Tacoma International Airport,49.6
+mora,SLE,Salem-Willamette Valley Airport/McNary Field,148.6
+mora,TIW,Tacoma Narrows Airport,49.8
+mora,YKM,Yakima Air Terminal McAllister Field,58.6
+mora,LPS,Lopez Island Airport,126.0
+mora,KEH,Kenmore Air Harbor LLC Seaplane Base,67.0
+mora,FBS,Friday Harbor Seaplane Base,130.8
+mora,RSJ,Rosario Seaplane Base,134.7
+mora,LKE,Kenmore Air Harbor Seaplane Base,60.9
+mora,RCE,Roche Harbor Airport,138.2
+mora,WSX,Westsound/WSX Seaplane Base,134.6
+mora,DTR,Decatur Shores Airport,124.5
+npsa,OFU,Ofu Airport,12.5
+npsa,FTI,Fitiuta Airport,28.6
+npsa,PPG,Pago Pago International Airport,58.0
+neri,AOO,Altoona Blair County Airport,220.9
+neri,AVL,Asheville Regional Airport,188.6
+neri,BFD,Bradford Regional Airport,299.2
+neri,BKW,Raleigh County Memorial Airport,8.8
+neri,BWI,Baltimore/Washington International Thurgood Marshall Airport,250.9
+neri,CAE,Columbia Metropolitan Airport,271.7
+neri,CAK,Akron Canton Regional Airport,211.9
+neri,CHO,Charlottesville Albemarle Airport,139.9
+neri,CKB,North Central West Virginia Airport,107.1
+neri,CLE,Cleveland Hopkins International Airport,248.9
+neri,CLT,Charlotte Douglas International Airport,183.5
+neri,CMH,John Glenn Columbus International Airport,178.8
+neri,CRW,Yeager Airport,47.5
+neri,CVG,Cincinnati Northern Kentucky International Airport,214.5
+neri,DAY,James M. Cox Dayton International Airport,223.0
+neri,DCA,Ronald Reagan Washington National Airport,225.1
+neri,DUJ,DuBois Regional Airport,254.6
+neri,ERI,Erie International Tom Ridge Field,294.4
+neri,EWN,Coastal Carolina Regional Airport,292.6
+neri,FAY,Fayetteville Regional Airport - Grannis Field,231.1
+neri,FLO,Florence Regional Airport,264.3
+neri,GSO,Piedmont Triad International Airport,135.6
+neri,GSP,Greenville-Spartanburg International Airport,216.3
+neri,HGR,Hagerstown Regional Richard A Henson Field,217.2
+neri,HTS,Tri-State Airport / Milton J. Ferguson Field,91.4
+neri,IAD,Washington Dulles International Airport,205.7
+neri,USA,Concord-Padgett Regional Airport,172.2
+neri,JST,John Murtha Johnstown Cambria County Airport,205.1
+neri,LBE,Arnold Palmer Regional Airport,187.0
+neri,LCK,Rickenbacker International Airport,169.8
+neri,LEX,Blue Grass Airport,196.9
+neri,LNS,Lancaster Airport,296.6
+neri,LUK,Cincinnati Municipal Airport Lunken Field,203.6
+neri,LWB,Greenbrier Valley Airport,32.7
+neri,LYH,Lynchburg Regional Airport - Preston Glenn Field,105.4
+neri,MDT,Harrisburg International Airport,278.3
+neri,MGW,Morgantown Municipal Airport Walter L. (Bill) Hart Field,135.8
+neri,OAJ,Albert J Ellis Airport,282.2
+neri,ORF,Norfolk International Airport,271.9
+neri,PGV,Pitt-Greenville Airport,252.7
+neri,PHF,Newport News Williamsburg International Airport,252.2
+neri,PIT,Pittsburgh International Airport,185.8
+neri,PKB,Mid Ohio Valley Regional Airport,104.7
+neri,RDU,Raleigh-Durham International Airport,184.0
+neri,RIC,Richmond International Airport,202.8
+neri,ROA,Roanoke–Blacksburg Regional Airport,67.5
+neri,SDF,Louisville Muhammad Ali International Airport,258.6
+neri,SHD,Shenandoah Valley Regional Airport,117.6
+neri,TOL,Eugene F. Kranz Toledo Express Airport,297.0
+neri,TRI,Tri-Cities Regional TN/VA Airport,123.6
+neri,TYS,McGhee Tyson Airport,218.2
+neri,SCE,State College Regional Airport,265.9
+noca,BYW,Blakely Island Airport,74.4
+noca,CWS,Center Island Airport,75.8
+noca,SSW,Stuart Island Airpark,89.8
+noca,WDN,Waldron Airstrip,82.6
+noca,DHB,Deer Harbor SPB,82.2
+noca,OTS,Anacortes Airport,68.1
+noca,ALW,Walla Walla Regional Airport,226.5
+noca,BFI,King County International Airport - Boeing Field,96.1
+noca,BLI,Bellingham International Airport,60.9
+noca,EAT,Pangborn Memorial Airport,101.8
+noca,FRD,Friday Harbor Airport,84.0
+noca,GEG,Spokane International Airport,185.3
+noca,LWS,Lewiston Nez Perce County Airport,253.5
+noca,OLM,Olympia Regional Airport,143.8
+noca,ESD,Orcas Island Airport,77.6
+noca,PAE,Seattle Paine Field International Airport,74.4
+noca,PDT,Eastern Oregon Regional Airport at Pendleton,236.1
+noca,PDX,Portland International Airport,225.5
+noca,PSC,Tri Cities Airport,195.1
+noca,PUW,Pullman-Moscow Regional Airport,234.0
+noca,SEA,Seattle–Tacoma International Airport,101.1
+noca,SLE,Salem-Willamette Valley Airport/McNary Field,276.1
+noca,TIW,Tacoma Narrows Airport,118.2
+noca,YKM,Yakima Air Terminal McAllister Field,151.3
+noca,LPS,Lopez Island Airport,80.6
+noca,KEH,Kenmore Air Harbor LLC Seaplane Base,81.9
+noca,FBS,Friday Harbor Seaplane Base,83.2
+noca,RSJ,Rosario Seaplane Base,75.9
+noca,LKE,Kenmore Air Harbor Seaplane Base,91.2
+noca,RCE,Roche Harbor Airport,88.4
+noca,WSX,Westsound/WSX Seaplane Base,80.1
+noca,DTR,Decatur Shores Airport,74.9
+olym,BYW,Blakely Island Airport,66.1
+olym,CWS,Center Island Airport,61.1
+olym,SSW,Stuart Island Airpark,64.2
+olym,WDN,Waldron Airstrip,69.4
+olym,DHB,Deer Harbor SPB,63.9
+olym,OTS,Anacortes Airport,66.7
+olym,ALW,Walla Walla Regional Airport,279.7
+olym,BFI,King County International Airport - Boeing Field,66.4
+olym,BLI,Bellingham International Airport,85.8
+olym,EAT,Pangborn Memorial Airport,163.6
+olym,EUG,Eugene Airport,255.2
+olym,FRD,Friday Harbor Airport,57.9
+olym,GEG,Spokane International Airport,285.3
+olym,OLM,Olympia Regional Airport,67.8
+olym,ESD,Orcas Island Airport,71.5
+olym,PAE,Seattle Paine Field International Airport,64.6
+olym,PDT,Eastern Oregon Regional Airport at Pendleton,270.9
+olym,PDX,Portland International Airport,161.2
+olym,PSC,Tri Cities Airport,239.0
+olym,RDM,Roberts Field,273.3
+olym,SEA,Seattle–Tacoma International Airport,67.8
+olym,SLE,Salem-Willamette Valley Airport/McNary Field,202.5
+olym,TIW,Tacoma Narrows Airport,62.9
+olym,YKM,Yakima Air Terminal McAllister Field,169.6
+olym,LPS,Lopez Island Airport,57.7
+olym,KEH,Kenmore Air Harbor LLC Seaplane Base,65.4
+olym,FBS,Friday Harbor Seaplane Base,59.0
+olym,RSJ,Rosario Seaplane Base,68.8
+olym,LKE,Kenmore Air Harbor Seaplane Base,62.9
+olym,RCE,Roche Harbor Airport,60.9
+olym,WSX,Westsound/WSX Seaplane Base,65.0
+olym,DTR,Decatur Shores Airport,62.1
+pefo,BLD,Boulder City Municipal Airport,293.0
+pefo,ABQ,Albuquerque International Sunport,179.9
+pefo,ALS,San Luis Valley Regional Airport/Bergman Field,276.5
+pefo,CDC,Cedar City Regional Airport,263.0
+pefo,CEZ,Cortez Municipal Airport,172.8
+pefo,CNY,Canyonlands Regional Airport,260.6
+pefo,DRO,Durango La Plata County Airport,188.0
+pefo,ELP,El Paso International Airport,294.6
+pefo,FLG,Flagstaff Pulliam Airport,107.0
+pefo,GCN,Grand Canyon National Park Airport,148.7
+pefo,GJT,Grand Junction Regional Airport,294.5
+pefo,GUC,Gunnison Crested Butte Regional Airport,291.7
+pefo,GUP,Gallup Municipal Airport,67.2
+pefo,HII,Lake Havasu City Airport,260.9
+pefo,AZA,Mesa Gateway Airport,157.5
+pefo,LRU,Las Cruces International Airport,248.6
+pefo,MTJ,Montrose Regional Airport,265.2
+pefo,PGA,Page Municipal Airport,163.1
+pefo,PHX,Phoenix Sky Harbor International Airport,165.9
+pefo,PRC,Prescott Regional Airport - Ernest A. Love Field,151.0
+pefo,SAF,Santa Fe Municipal Airport,213.1
+pefo,SGU,St George Regional Airport,251.8
+pefo,TSM,Taos Regional Airport,251.9
+pefo,SOW,Show Low Regional Airport,51.3
+pefo,SVC,Grant County Airport,187.3
+pefo,TEX,Telluride Regional Airport,230.2
+pefo,TUS,Tucson International Airport,209.0
+pinn,BFL,Meadows Field,139.4
+pinn,BIH,Eastern Sierra Regional Airport,167.1
+pinn,BUR,Hollywood Burbank/Bob Hope Airport,224.2
+pinn,CCR,Buchanan Field,114.2
+pinn,FAT,Fresno Yosemite International Airport,83.5
+pinn,HHR,Jack Northrop Field Hawthorne Municipal Airport,239.3
+pinn,LAX,Los Angeles International Airport,235.6
+pinn,LGB,Long Beach International Airport,251.9
+pinn,MCE,Merced Regional Macready Field,66.1
+pinn,MMH,Mammoth Yosemite Airport,150.9
+pinn,MRY,Monterey Regional Airport,37.4
+pinn,OAK,Oakland San Francisco Bay Airport,102.5
+pinn,ONT,Ontario International Airport,262.8
+pinn,RDD,Redding Municipal Airport,284.1
+pinn,RNO,Reno Tahoe International Airport,221.7
+pinn,SBA,Santa Barbara Municipal Airport,161.4
+pinn,SBD,San Bernardino International Airport,277.2
+pinn,SBP,San Luis County Regional Airport,91.7
+pinn,SCK,Stockton Metropolitan Airport,97.0
+pinn,SFO,San Francisco International Airport,102.1
+pinn,SJC,Mineta San Jose International Airport,73.1
+pinn,SMF,Sacramento International Airport,154.0
+pinn,SMX,Santa Maria Public Airport Captain G Allan Hancock Field,117.2
+pinn,SNA,John Wayne Orange County International Airport,270.0
+pinn,SQL,San Carlos Airport,92.1
+pinn,STS,Charles M. Schulz Sonoma County Airport,165.7
+pinn,TKF,Truckee Tahoe Airport,203.5
+redw,ACV,California Redwood Coast-Humboldt County Airport,27.5
+redw,CCR,Buchanan Field,256.2
+redw,CEC,Jack Mc Namara Field Airport,30.0
+redw,EUG,Eugene Airport,194.7
+redw,MFR,Rogue Valley International-Medford Airport,91.4
+redw,OAK,Oakland San Francisco Bay Airport,270.1
+redw,OTH,Southwest Oregon Regional Airport,141.7
+redw,RDD,Redding Municipal Airport,108.6
+redw,RDM,Roberts Field,246.9
+redw,RNO,Reno Tahoe International Airport,258.9
+redw,SCK,Stockton Metropolitan Airport,282.6
+redw,SFO,San Francisco International Airport,273.9
+redw,SJC,Mineta San Jose International Airport,298.9
+redw,SLE,Salem-Willamette Valley Airport/McNary Field,249.8
+redw,SMF,Sacramento International Airport,225.6
+redw,SQL,San Carlos Airport,283.1
+redw,STS,Charles M. Schulz Sonoma County Airport,208.1
+redw,TKF,Truckee Tahoe Airport,249.2
+romo,AIA,Alliance Municipal Airport,190.7
+romo,ALS,San Luis Valley Regional Airport/Bergman Field,202.0
+romo,ASE,Aspen-Pitkin County Airport (Sardy Field),100.0
+romo,BFF,Western Neb. Rgnl/William B. Heilig Airport,151.5
+romo,BJC,Rocky Mountain Metropolitan Airport,43.5
+romo,CDR,Chadron Municipal Airport,217.9
+romo,CEZ,Cortez Municipal Airport,263.3
+romo,CNY,Canyonlands Regional Airport,242.8
+romo,COS,City of Colorado Springs Municipal Airport,119.5
+romo,CPR,Casper-Natrona County International Airport,180.7
+romo,CYS,Cheyenne Regional Jerry Olson Field,72.1
+romo,DEN,Denver International Airport,64.0
+romo,DRO,Durango La Plata County Airport,247.6
+romo,EGE,Eagle County Regional Airport,81.3
+romo,GCC,Northeast Wyoming Regional Airport,276.0
+romo,GJT,Grand Junction Regional Airport,172.8
+romo,GUC,Gunnison Crested Butte Regional Airport,142.1
+romo,HDN,Yampa Valley Airport,80.5
+romo,LAR,Laramie Regional Airport,66.1
+romo,LBF,North Platte Regional Airport Lee Bird Field,267.8
+romo,MCK,McCook Ben Nelson Regional Airport,269.2
+romo,MTJ,Montrose Regional Airport,173.2
+romo,PUB,Pueblo Memorial Airport,156.5
+romo,RAP,Rapid City Regional Airport,288.5
+romo,RIW,Central Wyoming Regional Airport,235.2
+romo,RKS,Southwest Wyoming Regional Airport,195.4
+romo,TSM,Taos Regional Airport,269.7
+romo,TEX,Telluride Regional Airport,203.9
+romo,VEL,Vernal Regional Airport,200.8
+sagu,ELP,El Paso International Airport,258.2
+sagu,FLG,Flagstaff Pulliam Airport,209.2
+sagu,GCN,Grand Canyon National Park Airport,270.6
+sagu,GUP,Gallup Municipal Airport,254.6
+sagu,HII,Lake Havasu City Airport,264.1
+sagu,IPL,Imperial County Airport,283.9
+sagu,AZA,Mesa Gateway Airport,92.1
+sagu,LRU,Las Cruces International Airport,224.2
+sagu,YUM,Yuma International Airport / Marine Corps Air Station Yuma,226.7
+sagu,PHX,Phoenix Sky Harbor International Airport,111.5
+sagu,PRC,Prescott Regional Airport - Ernest A. Love Field,194.2
+sagu,SOW,Show Low Regional Airport,148.5
+sagu,SVC,Grant County Airport,154.6
+sagu,TUS,Tucson International Airport,12.4
+seki,BLD,Boulder City Municipal Airport,214.2
+seki,BFL,Meadows Field,92.2
+seki,BIH,Eastern Sierra Regional Airport,47.3
+seki,BUR,Hollywood Burbank/Bob Hope Airport,173.9
+seki,CCR,Buchanan Field,210.0
+seki,CLD,McClellan-Palomar Airport,258.5
+seki,FAT,Fresno Yosemite International Airport,62.7
+seki,HHR,Jack Northrop Field Hawthorne Municipal Airport,193.3
+seki,HII,Lake Havasu City Airport,279.8
+seki,LAS,Harry Reid International Airport,195.9
+seki,LAX,Los Angeles International Airport,191.7
+seki,LGB,Long Beach International Airport,201.6
+seki,MCE,Merced Regional Macready Field,113.4
+seki,MMH,Mammoth Yosemite Airport,64.6
+seki,MRY,Monterey Regional Airport,180.7
+seki,OAK,Oakland San Francisco Bay Airport,211.7
+seki,ONT,Ontario International Airport,191.8
+seki,PSP,Palm Springs International Airport,231.2
+seki,RNO,Reno Tahoe International Airport,202.9
+seki,SAN,San Diego International Airport,286.2
+seki,SBA,Santa Barbara Municipal Airport,173.0
+seki,SBD,San Bernardino International Airport,196.1
+seki,SBP,San Luis County Regional Airport,153.6
+seki,SCK,Stockton Metropolitan Airport,167.0
+seki,SFO,San Francisco International Airport,217.7
+seki,SGU,St George Regional Airport,281.5
+seki,SJC,Mineta San Jose International Airport,189.7
+seki,SMF,Sacramento International Airport,213.8
+seki,SMX,Santa Maria Public Airport Captain G Allan Hancock Field,163.3
+seki,SNA,John Wayne Orange County International Airport,213.8
+seki,SQL,San Carlos Airport,209.3
+seki,STS,Charles M. Schulz Sonoma County Airport,262.4
+seki,TKF,Truckee Tahoe Airport,198.9
+shen,TSS,East 34th Street Heliport,285.3
+shen,NYS,New York Skyports Inc Seaplane Base,285.0
+shen,JRA,West 30th Street Heliport,284.3
+shen,ABE,Lehigh Valley International Airport,219.6
+shen,ACY,Atlantic City International Airport,219.4
+shen,AOO,Altoona Blair County Airport,124.9
+shen,AVP,Wilkes-Barre/Scranton International Airport,244.5
+shen,BFD,Bradford Regional Airport,228.9
+shen,BGM,Greater Binghamton/Edwin A Link field,288.3
+shen,BKW,Raleigh County Memorial Airport,152.3
+shen,BWI,Baltimore/Washington International Thurgood Marshall Airport,107.8
+shen,CAK,Akron Canton Regional Airport,230.2
+shen,CHO,Charlottesville Albemarle Airport,24.5
+shen,CKB,North Central West Virginia Airport,109.7
+shen,CLE,Cleveland Hopkins International Airport,269.7
+shen,CLT,Charlotte Douglas International Airport,264.6
+shen,CMH,John Glenn Columbus International Airport,258.5
+shen,CRW,Yeager Airport,169.3
+shen,DCA,Ronald Reagan Washington National Airport,81.1
+shen,DOV,Dover Civil Air Terminal/Dover Air Force Base,167.6
+shen,DUJ,DuBois Regional Airport,187.0
+shen,ELM,Elmira Corning Regional Airport,266.7
+shen,ERI,Erie International Tom Ridge Field,263.9
+shen,EWN,Coastal Carolina Regional Airport,249.1
+shen,EWR,Newark Liberty International Airport,274.6
+shen,FAY,Fayetteville Regional Airport - Grannis Field,243.0
+shen,GSO,Piedmont Triad International Airport,184.0
+shen,HGR,Hagerstown Regional Richard A Henson Field,93.0
+shen,HTS,Tri-State Airport / Milton J. Ferguson Field,221.5
+shen,IAD,Washington Dulles International Airport,62.9
+shen,ILG,Wilmington Airport,174.0
+shen,ILM,Wilmington International Airport,293.3
+shen,IPT,Williamsport Regional Airport,206.9
+shen,ITH,Ithaca Tompkins Regional Airport,295.8
+shen,JFK,John F. Kennedy International Airport,290.5
+shen,USA,Concord-Padgett Regional Airport,247.6
+shen,JST,John Murtha Johnstown Cambria County Airport,127.5
+shen,LBE,Arnold Palmer Regional Airport,133.0
+shen,LCK,Rickenbacker International Airport,255.7
+shen,LGA,LaGuardia Airport,291.0
+shen,LNS,Lancaster Airport,161.8
+shen,LWB,Greenbrier Valley Airport,113.7
+shen,LYH,Lynchburg Regional Airport - Preston Glenn Field,89.9
+shen,MDT,Harrisburg International Airport,148.7
+shen,MGW,Morgantown Municipal Airport Walter L. (Bill) Hart Field,111.2
+shen,OAJ,Albert J Ellis Airport,257.5
+shen,ORF,Norfolk International Airport,166.0
+shen,OCE,Ocean City Municipal Airport,181.6
+shen,PGV,Pitt-Greenville Airport,206.2
+shen,PHF,Newport News Williamsburg International Airport,143.1
+shen,PHL,Philadelphia International Airport,197.4
+shen,PIT,Pittsburgh International Airport,167.1
+shen,PKB,Mid Ohio Valley Regional Airport,170.2
+shen,RDU,Raleigh-Durham International Airport,181.4
+shen,RIC,Richmond International Airport,92.6
+shen,ROA,Roanoke–Blacksburg Regional Airport,115.1
+shen,SBY,Salisbury Ocean City Wicomico Regional Airport,160.5
+shen,SHD,Shenandoah Valley Regional Airport,28.0
+shen,TEB,Teterboro Airport,285.4
+shen,TRI,Tri-Cities Regional TN/VA Airport,257.0
+shen,TTN,Trenton Mercer Airport,230.9
+shen,SCE,State College Regional Airport,166.2
+thro,ABR,Aberdeen Regional Airport,267.1
+thro,BIL,Billings Logan International Airport,260.8
+thro,BIS,Bismarck Municipal Airport,129.5
+thro,DIK,Dickinson Theodore Roosevelt Regional Airport,39.6
+thro,DVL,Devils Lake Regional Airport,220.2
+thro,GCC,Northeast Wyoming Regional Airport,220.3
+thro,GDV,Dawson Community Airport,64.7
+thro,GFK,Grand Forks International Airport,296.3
+thro,GGW,Glasgow Valley County Airport Wokal Field,164.5
+thro,JMS,Jamestown Regional Airport,224.3
+thro,MOT,Minot International Airport,124.8
+thro,OLF,L M Clayton Airport,118.3
+thro,PIR,Pierre Regional Airport,245.4
+thro,RAP,Rapid City Regional Airport,217.2
+thro,SDY,Sidney - Richland Regional Airport,51.0
+thro,SHR,Sheridan County Airport,238.2
+thro,XWA,Williston Basin International Airport,76.3
+viis,STT,Cyril E. King Airport,15.4
+viis,STX,Henry E. Rohlsen Airport,44.5
+viis,BQN,Rafael Hernández International Airport,156.9
+viis,CPX,Benjamin Rivera Noriega Airport,36.9
+viis,SIG,Fernando Luis Ribas Dominicci Airport,89.3
+viis,MAZ,Eugenio Maria De Hostos Airport,158.0
+viis,PSE,Mercedita International Airport,121.8
+viis,NRR,José Aponte de la Torre Airport,59.3
+viis,SJU,Luis Munoz Marin International Airport,82.9
+viis,VQS,Antonio Rivera Rodriguez Airport,51.4
+viis,SPB,Charlotte Amalie Harbor Seaplane Base,13.0
+viis,SSB,Christiansted Harbor Seaplane Base,41.2
+voya,BRD,Brainerd Lakes Regional Airport,155.9
+voya,CMX,Houghton County Memorial Airport,221.2
+voya,CWA,Central Wisconsin Airport,296.9
+voya,DLH,Duluth International Airport,117.3
+voya,DVL,Devils Lake Regional Airport,280.1
+voya,EAU,Chippewa Valley Regional Airport,258.1
+voya,FAR,Hector International Airport,214.1
+voya,GFK,Grand Forks International Airport,203.1
+voya,HIB,Range Regional Airport,75.9
+voya,IMT,Ford Airport,288.3
+voya,INL,Falls International Airport,26.5
+voya,IWD,Gogebic Iron County Airport,185.1
+voya,JMS,Jamestown Regional Airport,291.9
+voya,MSP,Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,249.7
+voya,RHI,Rhinelander Oneida County Airport,253.0
+voya,MQT,Marquette Sawyer Regional Airport,293.9
+voya,STC,Saint Cloud Regional Airport,210.9
+voya,TVF,Thief River Falls Regional Airport,156.6
+whsa,ABQ,Albuquerque International Sunport,157.0
+whsa,CNM,Cavern City Air Terminal,124.4
+whsa,CVN,Clovis Municipal Airport,219.2
+whsa,ELP,El Paso International Airport,67.0
+whsa,GUP,Gallup Municipal Airport,235.2
+whsa,HOB,Lea County Regional Airport,181.2
+whsa,LBB,Lubbock Preston Smith International Airport,267.7
+whsa,LRU,Las Cruces International Airport,48.2
+whsa,MAF,Midland International Air and Space Port,247.9
+whsa,ROW,Roswell Air Center Airport,110.5
+whsa,SAF,Santa Fe Municipal Airport,196.6
+whsa,TSM,Taos Regional Airport,256.5
+whsa,SOW,Show Low Regional Airport,235.2
+whsa,SVC,Grant County Airport,106.3
+whsa,TUS,Tucson International Airport,272.4
+wica,ABR,Aberdeen Regional Airport,278.8
+wica,AIA,Alliance Municipal Airport,110.4
+wica,BFF,Western Neb. Rgnl/William B. Heilig Airport,118.2
+wica,BIL,Billings Logan International Airport,294.0
+wica,BIS,Bismarck Municipal Airport,256.6
+wica,BJC,Rocky Mountain Metropolitan Airport,268.0
+wica,CDR,Chadron Municipal Airport,54.2
+wica,COD,Yellowstone Regional Airport,284.8
+wica,CPR,Casper-Natrona County International Airport,159.0
+wica,CYS,Cheyenne Regional Jerry Olson Field,181.6
+wica,DEN,Denver International Airport,264.8
+wica,DIK,Dickinson Theodore Roosevelt Regional Airport,224.5
+wica,GCC,Northeast Wyoming Regional Airport,117.1
+wica,GDV,Dawson Community Airport,254.6
+wica,HDN,Yampa Valley Airport,288.8
+wica,LAR,Laramie Regional Airport,193.8
+wica,LBF,North Platte Regional Airport Lee Bird Field,220.3
+wica,MCK,McCook Ben Nelson Regional Airport,275.1
+wica,PIR,Pierre Regional Airport,166.3
+wica,RAP,Rapid City Regional Airport,37.4
+wica,RIW,Central Wyoming Regional Airport,254.8
+wica,SDY,Sidney - Richland Regional Airport,287.3
+wica,SHR,Sheridan County Airport,193.7
+wrst,TEK,Tatitlek Airport,141.4
+wrst,CKX,Chicken Airport,184.1
+wrst,MYK,May Creek Airport,6.3
+wrst,CEM,Central Airport,294.8
+wrst,CDV,Merle K (Mudhole) Smith Airport,115.7
+wrst,CYT,Yakataga Airport,92.5
+wrst,EAA,Eagle Airport,236.5
+wrst,ENA,Kenai Municipal Airport,295.2
+wrst,FAI,Fairbanks International Airport,286.2
+wrst,GKN,Gulkana Airport,106.2
+wrst,SGY,Skagway Airport,282.6
+wrst,HNS,Haines Airport,284.7
+wrst,MRI,Merrill Field,240.4
+wrst,ANC,Ted Stevens Anchorage International Airport,245.6
+wrst,ORT,Northway Airport,108.8
+wrst,VDZ,Valdez Pioneer Field,122.6
+wrst,YAK,Yakutat Airport,165.7
+wrst,NCN,Chenega Bay Airport,204.2
+wrst,TKJ,Tok Junction Airport,132.5
+yell,BIL,Billings Logan International Airport,128.6
+yell,BOI,Boise Air Terminal/Gowen Field,290.6
+yell,BTM,Bert Mooney Airport,133.3
+yell,BZN,Bozeman Yellowstone International Airport,86.8
+yell,COD,Yellowstone Regional Airport,75.2
+yell,CPR,Casper-Natrona County International Airport,235.0
+yell,GCC,Northeast Wyoming Regional Airport,247.5
+yell,GTF,Great Falls International Airport,203.1
+yell,HLN,Helena Regional Airport,155.2
+yell,HVR,Havre City County Airport,275.0
+yell,IDA,Idaho Falls Regional Airport,106.4
+yell,JAC,Jackson Hole Airport,69.1
+yell,MSO,Missoula Montana Airport,234.1
+yell,MYL,McCall Municipal Airport,273.2
+yell,OGD,Ogden Hinckley Airport,246.5
+yell,PIH,Pocatello Regional Airport,155.1
+yell,RIW,Central Wyoming Regional Airport,148.5
+yell,RKS,Southwest Wyoming Regional Airport,220.6
+yell,SHR,Sheridan County Airport,175.6
+yell,SLC,Salt Lake City International Airport,273.1
+yell,SMN,Lemhi County Airport,167.3
+yell,SUN,Friedman Memorial Airport,200.9
+yell,TWF,Joslin Field Magic Valley Regional Airport,245.6
+yell,VEL,Vernal Regional Airport,292.4
+yell,WYS,Yellowstone Airport,28.7
+yose,BLD,Boulder City Municipal Airport,290.9
+yose,BFL,Meadows Field,169.2
+yose,BIH,Eastern Sierra Regional Airport,73.1
+yose,BUR,Hollywood Burbank/Bob Hope Airport,260.7
+yose,CCR,Buchanan Field,136.6
+yose,EKO,Elko Regional Airport,287.6
+yose,FAT,Fresno Yosemite International Airport,74.7
+yose,HHR,Jack Northrop Field Hawthorne Municipal Airport,279.8
+yose,LAS,Harry Reid International Airport,272.0
+yose,LAX,Los Angeles International Airport,277.5
+yose,LGB,Long Beach International Airport,289.5
+yose,MCE,Merced Regional Macready Field,65.3
+yose,MMH,Mammoth Yosemite Airport,42.0
+yose,MRY,Monterey Regional Airport,153.1
+yose,OAK,Oakland San Francisco Bay Airport,145.7
+yose,ONT,Ontario International Airport,284.0
+yose,RDD,Redding Municipal Airport,235.0
+yose,RNO,Reno Tahoe International Airport,114.6
+yose,SBA,Santa Barbara Municipal Airport,237.0
+yose,SBD,San Bernardino International Airport,289.9
+yose,SBP,San Luis County Regional Airport,190.3
+yose,SCK,Stockton Metropolitan Airport,91.7
+yose,SFO,San Francisco International Airport,154.8
+yose,SJC,Mineta San Jose International Airport,134.1
+yose,SMF,Sacramento International Airport,124.9
+yose,SMX,Santa Maria Public Airport Captain G Allan Hancock Field,209.9
+yose,SQL,San Carlos Airport,149.1
+yose,STS,Charles M. Schulz Sonoma County Airport,182.6
+yose,TKF,Truckee Tahoe Airport,106.3
+zion,BLD,Boulder City Municipal Airport,138.0
+zion,BIH,Eastern Sierra Regional Airport,293.2
+zion,CDC,Cedar City Regional Airport,28.1
+zion,CEZ,Cortez Municipal Airport,241.7
+zion,CNY,Canyonlands Regional Airport,204.5
+zion,DRO,Durango La Plata County Airport,290.2
+zion,EKO,Elko Regional Airport,285.2
+zion,FLG,Flagstaff Pulliam Airport,167.2
+zion,GCN,Grand Canyon National Park Airport,105.0
+zion,GJT,Grand Junction Regional Airport,274.8
+zion,GUP,Gallup Municipal Airport,266.0
+zion,HII,Lake Havasu City Airport,202.7
+zion,AZA,Mesa Gateway Airport,286.4
+zion,LAS,Harry Reid International Airport,144.6
+zion,MTJ,Montrose Regional Airport,292.0
+zion,OGD,Ogden Hinckley Airport,274.7
+zion,PGA,Page Municipal Airport,90.8
+zion,PHX,Phoenix Sky Harbor International Airport,273.0
+zion,PRC,Prescott Regional Airport - Ernest A. Love Field,185.9
+zion,PVU,Provo Municipal Airport,213.7
+zion,SGU,St George Regional Airport,32.2
+zion,SLC,Salt Lake City International Airport,247.6
+zion,SOW,Show Low Regional Airport,269.4
+zion,TEX,Telluride Regional Airport,283.7
+zion,VEL,Vernal Regional Airport,287.6

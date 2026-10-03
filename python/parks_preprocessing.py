@@ -31,6 +31,8 @@ keep_columns = [
     "longitude",
     "state"
 ]
+np_data["latitude"] = pd.to_numeric(np_data["latitude"])
+np_data["longitude"] = pd.to_numeric(np_data["longitude"])
 
 np_data = np_data[keep_columns]
 
