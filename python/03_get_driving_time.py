@@ -17,10 +17,6 @@ client = openrouteservice.Client(key=ORS_API_KEY)
 
 parks = pd.read_csv("../data/processed/national_parks.csv")
 
-# --------------------------------------------------
-# Coordinates
-# OpenRouteService uses (longitude, latitude)
-# --------------------------------------------------
 
 coordinates = [
     (LA_LON, LA_LAT)
@@ -69,8 +65,6 @@ parks.to_csv(
     "../data/processed/national_parks.csv",
     index=False
 )
-
-print("\nDone!")
 
 print(
     f"Routes found: "
