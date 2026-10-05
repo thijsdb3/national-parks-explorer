@@ -10,7 +10,7 @@ US_CODES = [
     "GU",  # Guam
     "MP"   # Northern Mariana Islands
 ]
-# selecting scheduled commercial US airports
+# selecting scheduled  US airports
 airport_data = airport_data[
     (airport_data["iso_country"].isin(US_CODES)) &
     (airport_data["scheduled_service"] == "yes") &
