@@ -1,10 +1,12 @@
 import numpy as np
 from math import radians, sin, cos, sqrt, atan2
 
+LA_LAT = 34.0522
+LA_LON = -118.2437
+
+
 # the df needs "latitude" and "longitude" column
 def calculate_distance_from_la(df):
-    LA_LAT = 34.0522
-    LA_LON = -118.2437
 
     lat1 = np.radians(LA_LAT)
     lon1 = np.radians(LA_LON)
