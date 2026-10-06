@@ -35,14 +35,15 @@ The project focuses on several questions:
 
 ### National Park Service
 
-National Park Service data is used for:
+The National Park Service provides the park information used in this project:
 
-* National park locations
-* Park identifiers and names
-* Annual visitation statistics
+National park data — park locations, identifiers, names, and states.
+Visitation data — annual recreation visitation statistics by park.
 
-Source: [National Park Service](https://home.nps.gov/subjects/digital/nps-data-api.htm)
-Source: [National Park Service](https://irma.nps.gov/Stats/Reports/National)
+Sources:
+
+[NPS Data API](https://home.nps.gov/subjects/digital/nps-data-api.htm)
+[NPS Visitor Use Statistics](https://irma.nps.gov/Stats/Reports/National)
 
 ### Airports
 
