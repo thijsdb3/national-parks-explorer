@@ -135,7 +135,7 @@ national-parks-explorer/
 │   ├── routing.py
 │   └── methods.py
 |
-├── .env.example
+├── .env
 ├── .gitignore
 ├── requirements.txt
 └── README.md
