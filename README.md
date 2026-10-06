@@ -131,7 +131,7 @@ national-parks-explorer/
 │   └── processed/
 │
 ├── powerbi/
-│   └── national_parks.pbix
+│   └── visualisations.pbix
 │
 ├── python/
 │   ├── 01_get_parks.py
