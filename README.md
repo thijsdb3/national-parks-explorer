@@ -1,8 +1,6 @@
 # National Parks Explorer
 
-An interactive data visualization project exploring **U.S. National Parks through the lens of accessibility, visitation, and air access from Los Angeles**.
-
-The project combines National Park Service visitation and park data with airport data and OpenRouteService routing data to analyze visitations and national park accessibility from Los Angeles.
+An interactive data visualization project using National Park Service data, airport data, and OpenRouteService routing to explore U.S. National Park visitation and accessibility from Los Angeles.
 
 ## Dashboard
 
