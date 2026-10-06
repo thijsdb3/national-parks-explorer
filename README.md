@@ -35,10 +35,10 @@ The project focuses on several questions:
 
 ### National Park Service
 
-The National Park Service provides the park information used in this project:
+The National Park Service provides the following datasets:
 
-National park data: park locations, identifiers, names, and states.
-Visitation data: annual recreation visitation statistics by park.
+* National park data: park locations, identifiers, names, and states.
+* Visitation data: annual recreation visitation statistics by park.
 
 Sources:
 
