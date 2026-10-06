@@ -6,7 +6,7 @@ The project combines data from the National Park Service with geographic and tra
 
 ## Dashboard
 
-![National Parks Explorer Dashboard](powerbi/dashboard.png)
+![National Parks Explorer Dashboard](powerbi/visualisations.pbix)
 
 The Power BI dashboard allows users to:
 
