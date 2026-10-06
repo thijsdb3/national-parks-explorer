@@ -8,6 +8,7 @@ Built using **Python, pandas, OpenRouteService, Microsoft Power BI, and DAX**, c
 ## Dashboard
 
 ![National Parks Explorer Dashboard](powerbi/visualisations.pbix)
+<img width="1141" height="658" alt="image" src="https://github.com/user-attachments/assets/839e9641-2a8c-4350-8482-3fc384f78140" />
 
 The Power BI dashboard allows users to:
 
