@@ -2,7 +2,7 @@
 
 An interactive data visualization project exploring **U.S. National Parks through the lens of accessibility, visitation, and air access from Los Angeles**.
 
-The project combines data from the National Park Service with geographic and transportation data 
+The project combines National Park Service visitation and park data with airport data and OpenRouteService routing data to analyze visitations and national park accessibility from Los Angeles.
 
 ## Dashboard
 
