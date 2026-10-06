@@ -1,6 +1,9 @@
 # National Parks Explorer
 
-An interactive data visualization project using National Park Service data, airport data, and OpenRouteService routing to explore U.S. National Park visitation and accessibility from Los Angeles.
+An interactive data visualization project exploring **U.S. National Park visitation and accessibility from Los Angeles**, with a focus on driving distance, travel time, and nearby airports.
+
+Built using **Python, pandas, OpenRouteService, Microsoft Power BI, and DAX**, combining data processing, geospatial analysis, routing, and interactive visualization.
+
 
 ## Dashboard
 
@@ -26,19 +29,6 @@ The project focuses on several questions:
 * Which parks are realistically accessible by car from Los Angeles?
 * How does driving time compare with straight-line distance?
 * Which airports provide access to remote national parks?
-
-## Technologies
-
-* **Python**
-
-  * pandas
-  * OpenRouteService
-  * python-dotenv
-* **Microsoft Power BI**
-* **DAX**
-* **REST APIs**
-* **Geospatial analysis**
-* **Git / GitHub**
 
 ## Data
 
