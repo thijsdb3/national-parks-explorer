@@ -41,7 +41,8 @@ National Park Service data is used for:
 * Park identifiers and names
 * Annual visitation statistics
 
-Source: [National Park Service](https://www.nps.gov/)
+Source: [National Park Service](https://home.nps.gov/subjects/digital/nps-data-api.htm)
+Source: [National Park Service](https://irma.nps.gov/Stats/Reports/National)
 
 ### Airports
 
@@ -62,6 +63,8 @@ Source: [OurAirports](https://ourairports.com/data/)
 Driving distance and estimated driving time from Los Angeles are calculated using the **OpenRouteService API**.
 
 This provides a more realistic accessibility measure than straight-line distance alone.
+
+Source: [OpenRouteService](https://openrouteservice.org/)
 
 ## Methodology
 
@@ -130,9 +133,12 @@ national-parks-explorer/
 │   └── national_parks.pbix
 │
 ├── python/
-│   ├── parks_preprocessing.py
-│   ├── airport_pipeline.py
-│   ├── routing.py
+│   ├── 01_get_parks.py
+│   ├── 02_parks_preprocessing.py
+│   ├── 03_get_driving_time.py
+|   ├── 04_visitation_preprocessing.py
+|   ├── 05_airports_preprocessing.py
+|   ├── 06_derrive_park_airports.py
 │   └── methods.py
 |
 ├── .env
